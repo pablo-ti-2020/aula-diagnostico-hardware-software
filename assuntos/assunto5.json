@@ -1,1 +1,254 @@
-
+{
+  "slides": [
+    {
+      "titulo": "Problema 151 - Antivírus bloqueando programa",
+      "imagem": "/imagens/antivirus-bloqueio.jpg",
+      "descricao": "Solução: Criar exceção no antivírus para o programa."
+    },
+    {
+      "titulo": "Problema 152 - Programa fecha sozinho",
+      "imagem": "/imagens/programa-fecha.jpg",
+      "descricao": "Possíveis causas: memória insuficiente.<br>Solução: Fechar outros programas e liberar RAM."
+    },
+    {
+      "titulo": "Problema 153 - Erro .NET",
+      "imagem": "/imagens/dotnet-erro.jpg",
+      "descricao": "Solução: Instalar ou reparar .NET Framework."
+    },
+    {
+      "titulo": "Problema 154 - Erro Java",
+      "imagem": "/imagens/java-erro.jpg",
+      "descricao": "Solução: Instalar ou atualizar Java Runtime Environment."
+    },
+    {
+      "titulo": "Problema 155 - Software não instala",
+      "imagem": "/imagens/software-nao-instala.jpg",
+      "descricao": "Possíveis causas: permissão de administrador.<br>Solução: Executar instalador como administrador."
+    },
+    {
+      "titulo": "Problema 156 - Programa abre lento",
+      "imagem": "/imagens/programa-lento.jpg",
+      "descricao": "Possíveis causas: HD lento ou muitos processos.<br>Solução: Otimizar disco e reiniciar PC."
+    },
+    {
+      "titulo": "Problema 157 - Erro DirectX",
+      "imagem": "/imagens/directx-erro.jpg",
+      "descricao": "Solução: Instalar ou atualizar DirectX."
+    },
+    {
+      "titulo": "Problema 158 - Jogo não abre",
+      "imagem": "/imagens/jogo-nao-abre.jpg",
+      "descricao": "Possíveis causas: driver de GPU desatualizado.<br>Solução: Atualizar driver da placa de vídeo."
+    },
+    {
+      "titulo": "Problema 159 - Software trava ao iniciar",
+      "imagem": "/imagens/software-trava.jpg",
+      "descricao": "Possíveis causas: configuração corrompida.<br>Solução: Reinstalar software ou resetar configurações."
+    },
+    {
+      "titulo": "Problema 160 - Aplicativo não responde",
+      "imagem": "/imagens/app-nao-responde.jpg",
+      "descricao": "Solução: Encerrar tarefa pelo Gerenciador de Tarefas."
+    },
+    {
+      "titulo": "Problema 161 - Anúncios no navegador",
+      "imagem": "/imagens/adware.jpg",
+      "descricao": "Possíveis causas: Adware ou extensão maliciosa.<br>Solução: Remover extensão e limpar navegador."
+    },
+    {
+      "titulo": "Problema 162 - Homepage alterada",
+      "imagem": "/imagens/homepage-alterada.jpg",
+      "descricao": "Causa: extensão maliciosa.<br>Solução: Remover extensão e redefinir navegador."
+    },
+    {
+      "titulo": "Problema 163 - Antivírus não abre",
+      "imagem": "/imagens/antivirus-nao-abre.jpg",
+      "descricao": "Causa: malware bloqueando antivírus.<br>Solução: Usar ferramenta de remoção de malware."
+    },
+    {
+      "titulo": "Problema 164 - CPU 100% em idle",
+      "imagem": "/imagens/cpu-100.jpg",
+      "descricao": "Causa: minerador ou malware em background.<br>Solução: Escanear sistema e remover processos suspeitos."
+    },
+    {
+      "titulo": "Problema 165 - Processos estranhos",
+      "imagem": "/imagens/processos-estranhos.jpg",
+      "descricao": "Investigação: Gerenciador de Tarefas.<br>Solução: Encerrar processos suspeitos e analisar malware."
+    },
+    {
+      "titulo": "Problema 166 - Navegador lento",
+      "imagem": "/imagens/navegador-lento.jpg",
+      "descricao": "Causa: extensões ou cache acumulado.<br>Solução: Limpar cache e desativar extensões desnecessárias."
+    },
+    {
+      "titulo": "Problema 167 - Downloads automáticos",
+      "imagem": "/imagens/downloads-automaticos.jpg",
+      "descricao": "Causa: malware ou adware.<br>Solução: Escanear sistema e remover ameaças."
+    },
+    {
+      "titulo": "Problema 168 - Arquivos renomeados",
+      "imagem": "/imagens/ransomware.jpg",
+      "descricao": "Causa: ransomware.<br>Solução: Restaurar backup e remover malware imediatamente."
+    },
+    {
+      "titulo": "Problema 169 - Antivírus detecta ameaças",
+      "imagem": "/imagens/antivirus-deteccao.jpg",
+      "descricao": "Solução: Remover malware detectado pelo antivírus."
+    },
+    {
+      "titulo": "Problema 170 - Sistema cheio de vírus",
+      "imagem": "/imagens/sistema-vírus.jpg",
+      "descricao": "Solução: Formatar e reinstalar sistema operacional."
+    },
+    {
+      "titulo": "Problema 171 - PC não inicia com RAM em dual channel",
+      "imagem": "/imagens/ram-dual.jpg",
+      "descricao": "Possíveis causas: incompatibilidade ou slot errado.<br>Solução: Testar módulos individualmente e trocar slots."
+    },
+    {
+      "titulo": "Problema 172 - PC liga sem GPU mas não com GPU",
+      "imagem": "/imagens/gpu-nao-funciona.jpg",
+      "descricao": "Possíveis causas: slot PCIe com defeito ou driver ausente.<br>Solução: Testar GPU em outro slot e atualizar drivers."
+    },
+    {
+      "titulo": "Problema 173 - PC inicia só após várias tentativas",
+      "imagem": "/imagens/boot-problema.jpg",
+      "descricao": "Possíveis causas: fonte instável ou memória com defeito.<br>Solução: Testar fonte e memória."
+    },
+    {
+      "titulo": "Problema 174 - PC liga e desliga",
+      "imagem": "/imagens/pc-liga-desliga.jpg",
+      "descricao": "Possíveis causas: sobreaquecimento ou falha na fonte.<br>Solução: Verificar temperaturas e testar fonte."
+    },
+    {
+      "titulo": "Problema 175 - BIOS resetando",
+      "imagem": "/imagens/bios-reset.jpg",
+      "descricao": "Possíveis causas: bateria CMOS fraca.<br>Solução: Trocar bateria da placa-mãe."
+    },
+    {
+      "titulo": "Problema 176 - Clock CPU errado",
+      "imagem": "/imagens/cpu-clock.jpg",
+      "descricao": "Possíveis causas: BIOS desconfigurada.<br>Solução: Resetar BIOS para padrão."
+    },
+    {
+      "titulo": "Problema 177 - GPU não aparece no sistema",
+      "imagem": "/imagens/gpu-desaparece.jpg",
+      "descricao": "Possíveis causas: driver ausente ou placa mal encaixada.<br>Solução: Reinstalar driver e testar GPU."
+    },
+    {
+      "titulo": "Problema 178 - PCI-E não detecta placa",
+      "imagem": "/imagens/pci-e.jpg",
+      "descricao": "Possíveis causas: slot PCIe com defeito.<br>Solução: Testar outro slot ou placa."
+    },
+    {
+      "titulo": "Problema 179 - USB frontal não funciona",
+      "imagem": "/imagens/usb-frontal.jpg",
+      "descricao": "Possíveis causas: driver ou conector com defeito.<br>Solução: Atualizar driver ou testar porta traseira."
+    },
+    {
+      "titulo": "Problema 180 - PC inicia sem teclado",
+      "imagem": "/imagens/pc-sem-teclado.jpg",
+      "descricao": "Possíveis causas: teclado com defeito ou BIOS desconfigurada.<br>Solução: Testar outro teclado e resetar BIOS."
+    },
+    {
+      "titulo": "Problema 181 - Erro Kernel Data Inpage",
+      "imagem": "/imagens/kernel-data.jpg",
+      "descricao": "Causas: RAM ou disco defeituoso.<br>Solução: Testar memória e verificar disco."
+    },
+    {
+      "titulo": "Problema 182 - Erro System Service Exception",
+      "imagem": "/imagens/system-service.jpg",
+      "descricao": "Causas: driver incompatível.<br>Solução: Atualizar ou reinstalar driver."
+    },
+    {
+      "titulo": "Problema 183 - Erro Page Fault",
+      "imagem": "/imagens/page-fault.jpg",
+      "descricao": "Causas: memória RAM defeituosa.<br>Solução: Testar módulos de RAM."
+    },
+    {
+      "titulo": "Problema 184 - Erro Bad Pool Header",
+      "imagem": "/imagens/bad-pool-header.jpg",
+      "descricao": "Causas: driver ou software corrompido.<br>Solução: Atualizar driver e checar integridade do sistema."
+    },
+    {
+      "titulo": "Problema 185 - Erro Unexpected Store Exception",
+      "imagem": "/imagens/unexpected-store.jpg",
+      "descricao": "Causas: hardware instável ou disco com falhas.<br>Solução: Testar hardware e reparar disco."
+    },
+    {
+      "titulo": "Problema 186 - PC trava ao copiar arquivos grandes",
+      "imagem": "/imagens/trava-copiar.jpg",
+      "descricao": "Possíveis causas: HD/SSD lento ou cheio.<br>Solução: Testar disco e liberar espaço."
+    },
+    {
+      "titulo": "Problema 187 - PC trava ao abrir jogo",
+      "imagem": "/imagens/trava-jogo.jpg",
+      "descricao": "Possíveis causas: RAM ou GPU com problemas.<br>Solução: Testar memória e atualizar drivers."
+    },
+    {
+      "titulo": "Problema 188 - PC trava ao assistir vídeo",
+      "imagem": "/imagens/trava-video.jpg",
+      "descricao": "Possíveis causas: driver de vídeo desatualizado.<br>Solução: Atualizar driver de GPU."
+    },
+    {
+      "titulo": "Problema 189 - PC reinicia ao instalar software",
+      "imagem": "/imagens/reinicia-instalar.jpg",
+      "descricao": "Possíveis causas: fonte instável ou conflito de drivers.<br>Solução: Testar fonte e reinstalar software."
+    },
+    {
+      "titulo": "Problema 190 - PC congela após login",
+      "imagem": "/imagens/congela-login.jpg",
+      "descricao": "Possíveis causas: perfil corrompido ou malware.<br>Solução: Criar novo usuário e escanear sistema."
+    },
+    {
+      "titulo": "Problema 191 - Windows perde ativação",
+      "imagem": "/imagens/windows-ativacao.jpg",
+      "descricao": "Solução: Reativar Windows com chave válida."
+    },
+    {
+      "titulo": "Problema 192 - Teclado digitando errado",
+      "imagem": "/imagens/teclado-errado.jpg",
+      "descricao": "Possíveis causas: layout incorreto ou driver.<br>Solução: Ajustar layout e reinstalar driver."
+    },
+    {
+      "titulo": "Problema 193 - Mouse clicando sozinho",
+      "imagem": "/imagens/mouse-clique.jpg",
+      "descricao": "Possíveis causas: driver ou hardware defeituoso.<br>Solução: Testar outro mouse e atualizar driver."
+    },
+    {
+      "titulo": "Problema 194 - Monitor apagando",
+      "imagem": "/imagens/monitor-apagando.jpg",
+      "descricao": "Possíveis causas: cabo solto ou GPU instável.<br>Solução: Verificar conexões e testar monitor em outro PC."
+    },
+    {
+      "titulo": "Problema 195 - Som distorcido",
+      "imagem": "/imagens/som-distorcido.jpg",
+      "descricao": "Possíveis causas: driver de áudio ou placa de som.<br>Solução: Atualizar driver e testar fones/caixas."
+    },
+    {
+      "titulo": "Problema 196 - Apps abrindo sozinhos",
+      "imagem": "/imagens/apps-sozinhos.jpg",
+      "descricao": "Possíveis causas: malware ou startup mal configurada.<br>Solução: Escanear malware e limpar inicialização."
+    },
+    {
+      "titulo": "Problema 197 - Boot extremamente lento",
+      "imagem": "/imagens/boot-lento.jpg",
+      "descricao": "Possíveis causas: programas de inicialização e drivers.<br>Solução: Limpar startup e otimizar drivers."
+    },
+    {
+      "titulo": "Problema 198 - PC travando após update",
+      "imagem": "/imagens/pc-trava-update.jpg",
+      "descricao": "Possíveis causas: driver incompatível ou atualização corrompida.<br>Solução: Restaurar sistema ou atualizar drivers."
+    },
+    {
+      "titulo": "Problema 199 - Driver incompatível com hardware antigo",
+      "imagem": "/imagens/driver-incompatível.jpg",
+      "descricao": "Solução: Instalar driver compatível ou versão anterior."
+    },
+    {
+      "titulo": "Problema 200 - Windows completamente corrompido",
+      "imagem": "/imagens/windows-corrompido.jpg",
+      "descricao": "Solução: Formatação limpa e reinstalação do sistema operacional."
+    }
+  ]
+}
