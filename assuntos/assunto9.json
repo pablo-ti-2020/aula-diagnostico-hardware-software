@@ -1,1 +1,254 @@
-teste2
+{
+  "slides": [
+    {
+      "titulo": "Problema 351 - Como rodar outro sistema operacional sem formatar o PC?",
+      "imagem": "/imagens/virtualbox.jpg",
+      "descricao": "Software: VirtualBox.<br>Solução: Instalar máquina virtual e criar novo sistema operacional."
+    },
+    {
+      "titulo": "Problema 352 - Como testar Linux dentro do Windows?",
+      "imagem": "/imagens/wsl.jpg",
+      "descricao": "Software: WSL.<br>Solução: Habilitar Windows Subsystem for Linux e instalar distribuição Linux."
+    },
+    {
+      "titulo": "Problema 353 - Como criar um pendrive bootável do Windows?",
+      "imagem": "/imagens/rufus.jpg",
+      "descricao": "Software: Rufus.<br>Solução: Selecionar ISO e criar pendrive bootável."
+    },
+    {
+      "titulo": "Problema 354 - Como colocar vários sistemas no mesmo pendrive?",
+      "imagem": "/imagens/ventoy.jpg",
+      "descricao": "Software: Ventoy.<br>Solução: Criar pendrive multi-boot e copiar ISOs."
+    },
+    {
+      "titulo": "Problema 355 - Como montar uma imagem ISO sem gravar DVD?",
+      "imagem": "/imagens/daemon-tools.jpg",
+      "descricao": "Software: Daemon Tools.<br>Solução: Criar drive virtual e montar ISO."
+    },
+    {
+      "titulo": "Problema 356 - Como montar discos virtuais protegidos?",
+      "imagem": "/imagens/alcohol-120.jpg",
+      "descricao": "Software: Alcohol 120%.<br>Solução: Montar imagens protegidas com senha."
+    },
+    {
+      "titulo": "Problema 357 - Como encontrar arquivos rapidamente no Windows?",
+      "imagem": "/imagens/everything.jpg",
+      "descricao": "Software: Everything.<br>Solução: Pesquisar arquivos por nome instantaneamente."
+    },
+    {
+      "titulo": "Problema 358 - Como acessar um computador remotamente?",
+      "imagem": "/imagens/anydesk.jpg",
+      "descricao": "Software: AnyDesk.<br>Solução: Conectar remotamente usando código de acesso."
+    },
+    {
+      "titulo": "Problema 359 - Como conectar via SSH em servidores?",
+      "imagem": "/imagens/putty.jpg",
+      "descricao": "Software: PuTTY.<br>Solução: Configurar endereço, usuário e porta para SSH."
+    },
+    {
+      "titulo": "Problema 360 - Como transferir arquivos via FTP?",
+      "imagem": "/imagens/filezilla.jpg",
+      "descricao": "Software: FileZilla.<br>Solução: Conectar ao servidor e transferir arquivos."
+    },
+    {
+      "titulo": "Problema 361 - O Windows está usando toda a memória RAM?",
+      "imagem": "/imagens/process-explorer-ram.jpg",
+      "descricao": "Software: Process Explorer.<br>Investigação: processo consumindo muita RAM ou memory leak.<br>Solução: Identificar e encerrar processo problemático."
+    },
+    {
+      "titulo": "Problema 362 - Qual programa está iniciando junto com o Windows?",
+      "imagem": "/imagens/autoruns-startup.jpg",
+      "descricao": "Software: Autoruns.<br>Investigação: muitos programas no startup.<br>Solução: desativar programas desnecessários."
+    },
+    {
+      "titulo": "Problema 363 - Um programa está acessando o disco o tempo todo?",
+      "imagem": "/imagens/process-monitor-disco.jpg",
+      "descricao": "Software: Process Monitor.<br>Investigação: atividade constante de disco.<br>Solução: identificar programa responsável."
+    },
+    {
+      "titulo": "Problema 364 - O Windows está consumindo CPU sem motivo?",
+      "imagem": "/imagens/process-explorer-cpu.jpg",
+      "descricao": "Software: Process Explorer.<br>Investigação: malware ou serviço travado.<br>Solução: encerrar ou investigar processo."
+    },
+    {
+      "titulo": "Problema 365 - O computador está cheio de arquivos temporários?",
+      "imagem": "/imagens/ccleaner-temp.jpg",
+      "descricao": "Software: CCleaner.<br>Investigação: cache acumulado e arquivos temporários.<br>Solução: limpar arquivos temporários."
+    },
+    {
+      "titulo": "Problema 366 - Existem arquivos inúteis ocupando espaço?",
+      "imagem": "/imagens/bleachbit.jpg",
+      "descricao": "Software: BleachBit.<br>Investigação: cache de navegadores e logs antigos.<br>Solução: executar limpeza."
+    },
+    {
+      "titulo": "Problema 367 - Existe malware escondido no sistema?",
+      "imagem": "/imagens/malwarebytes.jpg",
+      "descricao": "Software: Malwarebytes.<br>Investigação: comportamento estranho ou popups.<br>Solução: executar scan completo."
+    },
+    {
+      "titulo": "Problema 368 - O navegador possui adware?",
+      "imagem": "/imagens/adwcleaner.jpg",
+      "descricao": "Software: AdwCleaner.<br>Investigação: extensões suspeitas.<br>Solução: remover adware detectado."
+    },
+    {
+      "titulo": "Problema 369 - O antivírus está bloqueado por malware?",
+      "imagem": "/imagens/rkill.jpg",
+      "descricao": "Software: RKill.<br>Investigação: vírus bloqueando ferramentas.<br>Solução: encerrar processos maliciosos."
+    },
+    {
+      "titulo": "Problema 370 - Existe spyware no computador?",
+      "imagem": "/imagens/spybot.jpg",
+      "descricao": "Software: Spybot Search & Destroy.<br>Investigação: coleta de dados.<br>Solução: executar varredura."
+    },
+    {
+      "titulo": "Problema 371 - Qual dispositivo está consumindo internet?",
+      "imagem": "/imagens/glasswire.jpg",
+      "descricao": "Software: GlassWire.<br>Investigação: downloads escondidos.<br>Solução: identificar consumo de banda."
+    },
+    {
+      "titulo": "Problema 372 - Quais computadores estão na rede local?",
+      "imagem": "/imagens/advanced-ip-scanner.jpg",
+      "descricao": "Software: Advanced IP Scanner.<br>Investigação: dispositivos conectados.<br>Solução: mapear rede."
+    },
+    {
+      "titulo": "Problema 373 - Existe dispositivo estranho na rede?",
+      "imagem": "/imagens/angry-ip-scanner.jpg",
+      "descricao": "Software: Angry IP Scanner.<br>Investigação: intrusos.<br>Solução: identificar IP desconhecido."
+    },
+    {
+      "titulo": "Problema 374 - Existe perda de pacotes na internet?",
+      "imagem": "/imagens/pingplotter.jpg",
+      "descricao": "Software: PingPlotter.<br>Investigação: conexão instável.<br>Solução: monitorar rota."
+    },
+    {
+      "titulo": "Problema 375 - A rede está sendo espionada?",
+      "imagem": "/imagens/wireshark.jpg",
+      "descricao": "Software: Wireshark.<br>Investigação: tráfego suspeito.<br>Solução: analisar pacotes."
+    },
+    {
+      "titulo": "Problema 376 - Quais portas estão abertas no computador?",
+      "imagem": "/imagens/nmap.jpg",
+      "descricao": "Software: Nmap.<br>Investigação: serviços expostos.<br>Solução: mapear portas."
+    },
+    {
+      "titulo": "Problema 377 - Qual é a velocidade real da rede?",
+      "imagem": "/imagens/iperf.jpg",
+      "descricao": "Software: iperf.<br>Solução: testar throughput."
+    },
+    {
+      "titulo": "Problema 378 - Um arquivo deletado pode ser recuperado?",
+      "imagem": "/imagens/recuva.jpg",
+      "descricao": "Software: Recuva.<br>Solução: recuperar arquivos apagados."
+    },
+    {
+      "titulo": "Problema 379 - Fotos deletadas podem ser restauradas?",
+      "imagem": "/imagens/photorec.jpg",
+      "descricao": "Software: PhotoRec.<br>Solução: restaurar fotos deletadas."
+    },
+    {
+      "titulo": "Problema 380 - Um disco inteiro pode ser clonado?",
+      "imagem": "/imagens/clonezilla.jpg",
+      "descricao": "Software: Clonezilla.<br>Solução: clonar disco completo."
+    },
+    {
+      "titulo": "Problema 381 - Como fazer backup completo do Windows?",
+      "imagem": "/imagens/macrium.jpg",
+      "descricao": "Software: Macrium Reflect.<br>Solução: criar imagem completa do sistema."
+    },
+    {
+      "titulo": "Problema 382 - Como recuperar partições apagadas?",
+      "imagem": "/imagens/testdisk.jpg",
+      "descricao": "Software: TestDisk.<br>Solução: recuperar partições perdidas."
+    },
+    {
+      "titulo": "Problema 383 - Como redimensionar partições?",
+      "imagem": "/imagens/minitool.jpg",
+      "descricao": "Software: MiniTool Partition Wizard.<br>Solução: ajustar tamanho de partições."
+    },
+    {
+      "titulo": "Problema 384 - Como gerenciar partições Linux?",
+      "imagem": "/imagens/gparted.jpg",
+      "descricao": "Software: GParted.<br>Solução: gerenciar e redimensionar partições Linux."
+    },
+    {
+      "titulo": "Problema 385 - Como criar pendrive bootável?",
+      "imagem": "/imagens/rufus.jpg",
+      "descricao": "Software: Rufus.<br>Solução: criar pendrive bootável com ISO."
+    },
+    {
+      "titulo": "Problema 386 - Como criar pendrive com vários sistemas?",
+      "imagem": "/imagens/ventoy.jpg",
+      "descricao": "Software: Ventoy.<br>Solução: copiar múltiplas ISOs no mesmo pendrive."
+    },
+    {
+      "titulo": "Problema 387 - Como gravar imagem ISO?",
+      "imagem": "/imagens/balenaetcher.jpg",
+      "descricao": "Software: BalenaEtcher.<br>Solução: gravar ISO em pendrive ou cartão."
+    },
+    {
+      "titulo": "Problema 388 - Como montar ISO no Windows?",
+      "imagem": "/imagens/daemon-tools.jpg",
+      "descricao": "Software: Daemon Tools.<br>Solução: montar ISO como drive virtual."
+    },
+    {
+      "titulo": "Problema 389 - Como montar discos virtuais protegidos?",
+      "imagem": "/imagens/alcohol-120.jpg",
+      "descricao": "Software: Alcohol 120%.<br>Solução: montar discos protegidos."
+    },
+    {
+      "titulo": "Problema 390 - Como acessar um computador remotamente?",
+      "imagem": "/imagens/anydesk.jpg",
+      "descricao": "Software: AnyDesk.<br>Solução: conectar remotamente via AnyDesk."
+    },
+    {
+      "titulo": "Problema 391 - Como prestar suporte remoto?",
+      "imagem": "/imagens/teamviewer.jpg",
+      "descricao": "Software: TeamViewer.<br>Solução: acessar remotamente para suporte técnico."
+    },
+    {
+      "titulo": "Problema 392 - Como transferir arquivos via FTP?",
+      "imagem": "/imagens/filezilla.jpg",
+      "descricao": "Software: FileZilla.<br>Solução: enviar e receber arquivos via FTP."
+    },
+    {
+      "titulo": "Problema 393 - Como acessar servidores Linux?",
+      "imagem": "/imagens/putty.jpg",
+      "descricao": "Software: PuTTY.<br>Solução: conectar via SSH em servidores Linux."
+    },
+    {
+      "titulo": "Problema 394 - Como compactar arquivos grandes?",
+      "imagem": "/imagens/7zip.jpg",
+      "descricao": "Software: 7-Zip.<br>Solução: compactar arquivos para economizar espaço."
+    },
+    {
+      "titulo": "Problema 395 - Como extrair arquivos RAR?",
+      "imagem": "/imagens/winrar.jpg",
+      "descricao": "Software: WinRAR.<br>Solução: descompactar arquivos RAR."
+    },
+    {
+      "titulo": "Problema 396 - Como gravar tela do computador?",
+      "imagem": "/imagens/obs.jpg",
+      "descricao": "Software: OBS Studio.<br>Solução: capturar vídeo do desktop."
+    },
+    {
+      "titulo": "Problema 397 - Como capturar screenshots avançados?",
+      "imagem": "/imagens/sharex.jpg",
+      "descricao": "Software: ShareX.<br>Solução: capturar e editar screenshots."
+    },
+    {
+      "titulo": "Problema 398 - Como reproduzir qualquer vídeo?",
+      "imagem": "/imagens/vlc.jpg",
+      "descricao": "Software: VLC Media Player.<br>Solução: reproduzir arquivos de vídeo variados."
+    },
+    {
+      "titulo": "Problema 399 - Como editar código rapidamente?",
+      "imagem": "/imagens/notepadpp.jpg",
+      "descricao": "Software: Notepad++.<br>Solução: editar código fonte de forma rápida e eficiente."
+    },
+    {
+      "titulo": "Problema 400 - Como encontrar arquivos instantaneamente?",
+      "imagem": "/imagens/everything.jpg",
+      "descricao": "Software: Everything.<br>Solução: pesquisa instantânea de arquivos no sistema."
+    }
+  ]
+}
