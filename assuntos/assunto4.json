@@ -1,1 +1,105 @@
 
+{
+  "slides": [
+    {
+      "titulo": "Problema 131 - Disco 100% constantemente",
+      "imagem": "/imagens/disco100.jpg",
+      "descricao": "Possíveis causas: Windows Update ou processos em segundo plano.<br>Solução: Verificar processos e atualizar drivers."
+    },
+    {
+      "titulo": "Problema 132 - HD sumiu no sistema",
+      "imagem": "/imagens/hd-sumiu.jpg",
+      "descricao": "Investigação: Gerenciamento de Disco.<br>Possíveis causas: cabos SATA soltos ou HD com defeito.<br>Solução: Reconectar cabos ou testar outro HD."
+    },
+    {
+      "titulo": "Problema 133 - Disco aparece mas não abre",
+      "imagem": "/imagens/disco-nao-abre.jpg",
+      "descricao": "Possíveis causas: sistema de arquivos corrompido.<br>Solução: Reparar disco com CHKDSK ou ferramenta equivalente."
+    },
+    {
+      "titulo": "Problema 134 - Arquivos sumindo",
+      "imagem": "/imagens/arquivos-sumindo.jpg",
+      "descricao": "Possíveis causas: vírus ou malware.<br>Solução: Executar antivírus completo e restaurar backups."
+    },
+    {
+      "titulo": "Problema 135 - Erro ao copiar arquivos",
+      "imagem": "/imagens/erro-copiar.jpg",
+      "descricao": "Possíveis causas: HD com setores defeituosos.<br>Solução: Testar outro disco e realizar backup."
+    },
+    {
+      "titulo": "Problema 136 - SSD muito lento",
+      "imagem": "/imagens/ssd-lento.jpg",
+      "descricao": "Possíveis causas: TRIM desativado ou firmware desatualizado.<br>Solução: Ativar TRIM e atualizar firmware do SSD."
+    },
+    {
+      "titulo": "Problema 137 - PC trava ao acessar disco",
+      "imagem": "/imagens/trava-disco.jpg",
+      "descricao": "Possíveis causas: bad blocks ou falha no disco.<br>Solução: Testar disco e realizar backup imediato."
+    },
+    {
+      "titulo": "Problema 138 - Disco não inicializado",
+      "imagem": "/imagens/disco-nao-inicializado.jpg",
+      "descricao": "Solução: Inicializar disco no Gerenciamento de Disco do Windows."
+    },
+    {
+      "titulo": "Problema 139 - Partição inacessível",
+      "imagem": "/imagens/particao-inacessivel.jpg",
+      "descricao": "Possíveis causas: corrupção do sistema de arquivos.<br>Solução: Reparar com CHKDSK ou ferramenta de recuperação."
+    },
+    {
+      "titulo": "Problema 140 - Erro 'delayed write failed'",
+      "imagem": "/imagens/delayed-write.jpg",
+      "descricao": "Possíveis causas: falha no disco ou sistema de arquivos.<br>Solução: Testar disco e verificar integridade."
+    },
+    {
+      "titulo": "Problema 141 - CPU 95°C",
+      "imagem": "/imagens/cpu-alta.jpg",
+      "descricao": "Investigação: HWMonitor.<br>Possíveis causas: pasta térmica velha ou cooler sujo.<br>Solução: Trocar pasta térmica e limpar cooler."
+    },
+    {
+      "titulo": "Problema 142 - GPU 90°C",
+      "imagem": "/imagens/gpu-alta.jpg",
+      "descricao": "Possíveis causas: cooler sujo ou fluxo de ar ruim.<br>Solução: Limpar cooler e melhorar ventilação."
+    },
+    {
+      "titulo": "Problema 143 - CPU reduz clock",
+      "imagem": "/imagens/cpu-throttling.jpg",
+      "descricao": "Causa: Thermal throttling devido a superaquecimento.<br>Solução: Melhorar resfriamento ou ajustar BIOS."
+    },
+    {
+      "titulo": "Problema 144 - FPS instável",
+      "imagem": "/imagens/fps-instavel.jpg",
+      "descricao": "Possíveis causas: CPU gargalo ou drivers desatualizados.<br>Solução: Atualizar drivers e otimizar configurações do jogo."
+    },
+    {
+      "titulo": "Problema 145 - PC esquenta muito",
+      "imagem": "/imagens/pc-quente.jpg",
+      "descricao": "Causa: Fluxo de ar ruim ou poeira acumulada.<br>Solução: Limpar gabinete e reorganizar cabos para melhorar ventilação."
+    },
+    {
+      "titulo": "Problema 146 - GPU usage baixo",
+      "imagem": "/imagens/gpu-baixo.jpg",
+      "descricao": "Causa: CPU limita desempenho da GPU (CPU bottleneck).<br>Solução: Ajustar configurações do jogo ou atualizar CPU."
+    },
+    {
+      "titulo": "Problema 147 - CPU uso baixo mas PC lento",
+      "imagem": "/imagens/cpu-baixo-pc-lento.jpg",
+      "descricao": "Possíveis causas: HD lento ou processos em background.<br>Solução: Substituir HD por SSD e otimizar sistema."
+    },
+    {
+      "titulo": "Problema 148 - Uso RAM alto parado",
+      "imagem": "/imagens/ram-alta.jpg",
+      "descricao": "Possíveis causas: software em background consumindo memória.<br>Solução: Finalizar processos desnecessários ou reiniciar PC."
+    },
+    {
+      "titulo": "Problema 149 - Temperatura normal mas PC trava",
+      "imagem": "/imagens/pc-trava-ram.jpg",
+      "descricao": "Possíveis causas: RAM defeituosa.<br>Solução: Testar memória com MemTest ou substituir módulos defeituosos."
+    },
+    {
+      "titulo": "Problema 150 - PC trava sob carga",
+      "imagem": "/imagens/pc-trava-carga.jpg",
+      "descricao": "Possíveis causas: fonte de alimentação fraca ou instável.<br>Solução: Testar fonte ou substituir por uma adequada."
+    }
+  ]
+}
