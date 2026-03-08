@@ -1,1 +1,254 @@
-
+{
+  "slides": [
+    {
+      "titulo": "Problema 251 - Popup constante",
+      "imagem": "/imagens/adware-popup.jpg",
+      "descricao": "Causa: Adware.<br>Solução: Remover extensão ou programa malicioso."
+    },
+    {
+      "titulo": "Problema 252 - Navegador redireciona",
+      "imagem": "/imagens/redirecionamento.jpg",
+      "descricao": "Causa: Extensão maliciosa.<br>Solução: Remover extensão e limpar cache."
+    },
+    {
+      "titulo": "Problema 253 - Antivírus detecta trojan",
+      "imagem": "/imagens/antivirus-trojan.jpg",
+      "descricao": "Solução: Remover malware com antivírus atualizado."
+    },
+    {
+      "titulo": "Problema 254 - Arquivos criptografados",
+      "imagem": "/imagens/ransomware.jpg",
+      "descricao": "Causa: Ransomware.<br>Solução: Restaurar backup ou formatar se necessário."
+    },
+    {
+      "titulo": "Problema 255 - CPU alta em idle",
+      "imagem": "/imagens/cpu-alta.jpg",
+      "descricao": "Causa: Minerador oculto.<br>Solução: Escanear sistema e remover processo malicioso."
+    },
+    {
+      "titulo": "Problema 256 - Processos desconhecidos",
+      "imagem": "/imagens/processos-desconhecidos.jpg",
+      "descricao": "Causa: Malware.<br>Solução: Verificar no Task Manager e remover software suspeito."
+    },
+    {
+      "titulo": "Problema 257 - Antivírus desativado",
+      "imagem": "/imagens/antivirus-off.jpg",
+      "descricao": "Causa: Vírus.<br>Solução: Reativar antivírus e escanear sistema."
+    },
+    {
+      "titulo": "Problema 258 - Downloads automáticos",
+      "imagem": "/imagens/download-automatico.jpg",
+      "descricao": "Causa: Adware.<br>Solução: Remover extensões e verificar programas instalados."
+    },
+    {
+      "titulo": "Problema 259 - Navegador lento",
+      "imagem": "/imagens/navegador-lento.jpg",
+      "descricao": "Causa: Extensões e cache.<br>Solução: Limpar cache e desativar extensões desnecessárias."
+    },
+    {
+      "titulo": "Problema 260 - Sistema infectado",
+      "imagem": "/imagens/sistema-infectado.jpg",
+      "descricao": "Solução: Formatação e reinstalação limpa do sistema operacional."
+    },
+    {
+      "titulo": "Problema 261 - Perda de pacotes",
+      "imagem": "/imagens/perda-pacotes.jpg",
+      "descricao": "Causa: Rede congestionada.<br>Solução: Reiniciar roteador e otimizar rede."
+    },
+    {
+      "titulo": "Problema 262 - Ping muito alto",
+      "imagem": "/imagens/ping-alto.jpg",
+      "descricao": "Causa: Roteador ou ISP.<br>Solução: Testar outra conexão ou reiniciar roteador."
+    },
+    {
+      "titulo": "Problema 263 - DNS lento",
+      "imagem": "/imagens/dns-lento.jpg",
+      "descricao": "Causa: Servidor DNS.<br>Solução: Trocar para DNS público (Google, Cloudflare)."
+    },
+    {
+      "titulo": "Problema 264 - Internet cai frequentemente",
+      "imagem": "/imagens/internet-cai.jpg",
+      "descricao": "Causa: Driver de rede.<br>Solução: Atualizar driver da placa de rede."
+    },
+    {
+      "titulo": "Problema 265 - WiFi fraco",
+      "imagem": "/imagens/wifi-fraco.jpg",
+      "descricao": "Causa: Distância do roteador.<br>Solução: Aproximar-se do roteador ou usar repetidor."
+    },
+    {
+      "titulo": "Problema 266 - Conexão limitada",
+      "imagem": "/imagens/conexao-limitada.jpg",
+      "descricao": "Causa: DHCP.<br>Solução: Renovar IP e verificar configuração do roteador."
+    },
+    {
+      "titulo": "Problema 267 - IP duplicado",
+      "imagem": "/imagens/ip-duplicado.jpg",
+      "descricao": "Causa: Configuração de rede.<br>Solução: Atribuir IP manual ou renovar DHCP."
+    },
+    {
+      "titulo": "Problema 268 - Sites não abrem",
+      "imagem": "/imagens/sites-nao-abrem.jpg",
+      "descricao": "Causa: DNS.<br>Solução: Alterar servidor DNS ou limpar cache DNS."
+    },
+    {
+      "titulo": "Problema 269 - Rede muito lenta",
+      "imagem": "/imagens/rede-lenta.jpg",
+      "descricao": "Causa: Malware.<br>Solução: Escanear sistema e remover softwares maliciosos."
+    },
+    {
+      "titulo": "Problema 270 - Rede não detectada",
+      "imagem": "/imagens/rede-nao-detectada.jpg",
+      "descricao": "Causa: Placa de rede desativada.<br>Solução: Ativar placa de rede e reinstalar driver se necessário."
+    },
+    {
+      "titulo": "Problema 271 - PC cheio de arquivos temporários",
+      "imagem": "/imagens/arquivos-temporarios.jpg",
+      "descricao": "Solução: Limpeza de disco e remover arquivos temporários."
+    },
+    {
+      "titulo": "Problema 272 - Registro corrompido",
+      "imagem": "/imagens/registro-corrompido.jpg",
+      "descricao": "Ferramenta: CCleaner.<br>Solução: Corrigir registro com software confiável."
+    },
+    {
+      "titulo": "Problema 273 - Muitos programas startup",
+      "imagem": "/imagens/startup.jpg",
+      "descricao": "Solução: Desativar programas desnecessários na inicialização."
+    },
+    {
+      "titulo": "Problema 274 - Drivers desatualizados",
+      "imagem": "/imagens/drivers-desatualizados.jpg",
+      "descricao": "Solução: Atualizar todos os drivers do sistema."
+    },
+    {
+      "titulo": "Problema 275 - Software desnecessário",
+      "imagem": "/imagens/software-desnecessario.jpg",
+      "descricao": "Solução: Desinstalar softwares que não são usados."
+    },
+    {
+      "titulo": "Problema 276 - Sistema muito antigo",
+      "imagem": "/imagens/sistema-antigo.jpg",
+      "descricao": "Solução: Reinstalar Windows ou atualizar versão."
+    },
+    {
+      "titulo": "Problema 277 - Backup inexistente",
+      "imagem": "/imagens/backup-inexistente.jpg",
+      "descricao": "Solução: Criar backup completo do sistema e dados."
+    },
+    {
+      "titulo": "Problema 278 - Disco quase cheio",
+      "imagem": "/imagens/disco-quase-cheio.jpg",
+      "descricao": "Solução: Limpeza de arquivos desnecessários e temporários."
+    },
+    {
+      "titulo": "Problema 279 - Cache gigante navegador",
+      "imagem": "/imagens/cache-navegador.jpg",
+      "descricao": "Solução: Limpar cache do navegador para melhorar desempenho."
+    },
+    {
+      "titulo": "Problema 280 - Sistema lento após anos",
+      "imagem": "/imagens/sistema-lento-anos.jpg",
+      "descricao": "Solução: Formatação e reinstalação limpa do sistema."
+    },
+    {
+      "titulo": "Problema 281 - PC reinicia sob carga",
+      "imagem": "/imagens/reinicio-carga.jpg",
+      "descricao": "Possível causa: Fonte fraca.<br>Solução: Trocar fonte por modelo adequado."
+    },
+    {
+      "titulo": "Problema 282 - PC trava em jogos",
+      "imagem": "/imagens/trava-jogos.jpg",
+      "descricao": "Causa: GPU.<br>Solução: Verificar driver ou substituir placa de vídeo."
+    },
+    {
+      "titulo": "Problema 283 - PC trava em vídeos",
+      "imagem": "/imagens/trava-videos.jpg",
+      "descricao": "Causa: Driver GPU.<br>Solução: Atualizar driver de vídeo."
+    },
+    {
+      "titulo": "Problema 284 - PC trava copiando arquivos",
+      "imagem": "/imagens/trava-copiando.jpg",
+      "descricao": "Causa: Disco.<br>Solução: Testar disco e reparar setores defeituosos."
+    },
+    {
+      "titulo": "Problema 285 - PC reinicia ao ligar periférico",
+      "imagem": "/imagens/reinicio-periferico.jpg",
+      "descricao": "Causa: USB defeituosa.<br>Solução: Trocar cabo ou porta USB."
+    },
+    {
+      "titulo": "Problema 286 - PC inicia mas trava depois",
+      "imagem": "/imagens/trava-depois.jpg",
+      "descricao": "Causa: Driver.<br>Solução: Atualizar drivers do sistema."
+    },
+    {
+      "titulo": "Problema 287 - PC trava ao abrir navegador",
+      "imagem": "/imagens/trava-navegador.jpg",
+      "descricao": "Causa: RAM.<br>Solução: Fechar abas e monitorar uso de memória."
+    },
+    {
+      "titulo": "Problema 288 - PC reinicia ao instalar programa",
+      "imagem": "/imagens/reinicio-instala.jpg",
+      "descricao": "Causa: RAM.<br>Solução: Testar memória e reiniciar sistema."
+    },
+    {
+      "titulo": "Problema 289 - PC congela após horas",
+      "imagem": "/imagens/congela-horas.jpg",
+      "descricao": "Causa: Temperatura.<br>Solução: Verificar fluxo de ar e limpar cooler."
+    },
+    {
+      "titulo": "Problema 290 - PC trava sem motivo",
+      "imagem": "/imagens/trava-hardware.jpg",
+      "descricao": "Causa: Hardware instável.<br>Solução: Diagnóstico completo e teste de componentes."
+    },
+    {
+      "titulo": "Problema 291 - Windows corrompido",
+      "imagem": "/imagens/windows-corrompido.jpg",
+      "descricao": "Solução: Reinstalação limpa do sistema operacional."
+    },
+    {
+      "titulo": "Problema 292 - Drivers incompatíveis",
+      "imagem": "/imagens/drivers-incompativeis.jpg",
+      "descricao": "Solução: Reinstalar drivers corretos para o hardware."
+    },
+    {
+      "titulo": "Problema 293 - BIOS desatualizada",
+      "imagem": "/imagens/bios-atualizar.jpg",
+      "descricao": "Solução: Atualizar BIOS para versão mais recente."
+    },
+    {
+      "titulo": "Problema 294 - Periférico causando travamento",
+      "imagem": "/imagens/periferico-trava.jpg",
+      "descricao": "Solução: Remover ou substituir dispositivo problemático."
+    },
+    {
+      "titulo": "Problema 295 - Software incompatível",
+      "imagem": "/imagens/software-incompativel.jpg",
+      "descricao": "Solução: Atualizar software ou substituir por versão compatível."
+    },
+    {
+      "titulo": "Problema 296 - Sistema operacional bugado",
+      "imagem": "/imagens/sistema-bugado.jpg",
+      "descricao": "Solução: Atualizar sistema com latest updates."
+    },
+    {
+      "titulo": "Problema 297 - Hardware incompatível",
+      "imagem": "/imagens/hardware-incompativel.jpg",
+      "descricao": "Solução: Trocar componente incompatível."
+    },
+    {
+      "titulo": "Problema 298 - PC instável",
+      "imagem": "/imagens/pc-instavel.jpg",
+      "descricao": "Solução: Realizar diagnóstico completo do sistema."
+    },
+    {
+      "titulo": "Problema 299 - Sistema inutilizável",
+      "imagem": "/imagens/sistema-inutilizavel.jpg",
+      "descricao": "Solução: Criar backup completo e formatar o sistema."
+    },
+    {
+      "titulo": "Problema 300 - Computador não confiável",
+      "imagem": "/imagens/computador-nao-confiavel.jpg",
+      "descricao": "Solução: Manutenção completa e verificação de hardware."
+    }
+  ]
+}
