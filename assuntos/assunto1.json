@@ -1,20 +1,300 @@
 {
-  "nome": "Topografia",
+  "nome": "Diagnóstico de Problemas em Computadores",
   "slides": [
     {
-      "titulo": "Slide 1 - O que é Topografia?",
-      "imagem": "https://via.placeholder.com/400",
-      "descricao": "Topografia é o estudo detalhado da superfície do terreno."
+      "titulo": "Problema 1 - Computador não liga",
+      "imagem": "/imagens/pc-nao-liga.jpg",
+      "descricao": "O cliente aperta o botão de ligar e nada acontece. Nenhum LED acende e nenhuma ventoinha gira. Em alguns casos o computador funcionava normalmente no dia anterior. Também pode ocorrer após queda de energia ou mudança de tomada. Isso pode gerar preocupação imediata para o usuário.\n\nTestes possíveis:\nVerificar cabo de energia e filtro de linha.\nTestar outra tomada.\nVerificar se a fonte está ligada na chave traseira.\nTestar fonte de alimentação.\nVerificar botão power do gabinete.\nChecar conexão do cabo POWER SW na placa-mãe."
     },
     {
-      "titulo": "Slide 2 - Levantamento Planimétrico",
-      "imagem": "https://via.placeholder.com/400",
-      "descricao": "Mede posições horizontais no terreno."
+      "titulo": "Problema 2 - Computador liga mas não dá vídeo",
+      "imagem": "/imagens/sem-video.jpg",
+      "descricao": "O computador liga, as ventoinhas giram, mas não aparece imagem no monitor. Em alguns casos o monitor mostra 'sem sinal'. O problema pode surgir após limpeza do computador ou transporte. Também pode acontecer após instalação de nova memória ou placa de vídeo.\n\nTestes possíveis:\nVerificar cabo HDMI ou VGA.\nTestar outro monitor.\nRemover e recolocar memória RAM.\nTestar vídeo integrado.\nLimpar contatos da memória.\nResetar BIOS."
     },
     {
-      "titulo": "Slide 3 - Curvas de Nível",
-      "imagem": "https://via.placeholder.com/400",
-      "descricao": "Representam altitudes no mapa."
+      "titulo": "Problema 3 - Computador reiniciando sozinho",
+      "imagem": "/imagens/reiniciando.jpg",
+      "descricao": "O computador reinicia inesperadamente durante uso. Pode acontecer durante jogos, navegação ou ao abrir programas pesados. Em alguns casos ocorre logo após iniciar o Windows. Isso pode indicar problema de hardware, temperatura ou energia.\n\nTestes possíveis:\nVerificar temperaturas da CPU.\nTestar fonte de alimentação.\nExecutar diagnóstico de memória.\nVerificar drivers instalados.\nAnalisar logs do sistema.\nTestar estabilidade com stress test."
+    },
+    {
+      "titulo": "Problema 4 - Computador muito lento",
+      "imagem": "/imagens/pc-lento.jpg",
+      "descricao": "O cliente relata que o computador demora para abrir programas. O sistema pode levar vários minutos para iniciar. Navegador trava ou demora para responder. Muitas vezes o problema aparece após meses ou anos de uso.\n\nTestes possíveis:\nVerificar uso de CPU e memória.\nChecar programas iniciando com Windows.\nExecutar antivírus.\nVerificar saúde do HD ou SSD.\nTestar espaço em disco.\nDesinstalar programas desnecessários."
+    },
+    {
+      "titulo": "Problema 5 - Tela azul (Blue Screen)",
+      "imagem": "/imagens/tela-azul.jpg",
+      "descricao": "O computador apresenta uma tela azul com mensagem de erro e reinicia. Isso pode acontecer durante uso normal ou ao iniciar o sistema. O cliente geralmente relata que começou a acontecer de repente. Em alguns casos ocorre após atualização de driver.\n\nTestes possíveis:\nAnalisar código de erro da tela azul.\nTestar memória RAM.\nAtualizar drivers.\nVerificar integridade do Windows.\nChecar disco rígido.\nRemover hardware recém instalado."
+    },
+    {
+      "titulo": "Problema 6 - Computador desligando sozinho",
+      "imagem": "/imagens/desligando.jpg",
+      "descricao": "O computador desliga sem aviso durante uso. Pode acontecer ao abrir programas pesados ou jogos. O usuário relata que o problema começou recentemente. Em alguns casos o gabinete está muito quente.\n\nTestes possíveis:\nMonitorar temperatura da CPU.\nLimpar poeira do cooler.\nTrocar pasta térmica.\nVerificar fonte de alimentação.\nTestar fluxo de ar do gabinete.\nRodar teste de estresse."
+    },
+
+    {
+      "titulo": "Problema 7 - Internet conectada mas sem acesso",
+      "imagem": "/imagens/internet-sem-acesso.jpg",
+      "descricao": "O computador mostra conexão com a rede, mas sites não carregam. O cliente relata que outros dispositivos funcionam normalmente. Pode acontecer após atualização do sistema ou alteração de rede.\n\nTestes possíveis:\nReiniciar modem e roteador.\nTestar comando ping.\nRenovar IP.\nVerificar DNS.\nAtualizar driver de rede.\nTestar cabo de rede."
+    },
+
+    {
+      "titulo": "Problema 8 - HD fazendo barulho",
+      "imagem": "/imagens/hd-barulho.jpg",
+      "descricao": "O cliente relata estalos ou barulho vindo do computador. O sistema pode travar ou demorar para carregar arquivos. Em alguns casos o problema surge após queda ou impacto.\n\nTestes possíveis:\nVerificar saúde do HD com software.\nFazer backup imediato.\nChecar cabos SATA.\nTestar outro disco.\nMonitorar SMART do disco."
+    },
+
+    {
+      "titulo": "Problema 9 - USB não reconhece dispositivos",
+      "imagem": "/imagens/usb-nao-reconhece.jpg",
+      "descricao": "Pendrives ou periféricos não funcionam ao conectar. O sistema pode mostrar erro de dispositivo desconhecido. O problema pode surgir após atualização ou falha de driver.\n\nTestes possíveis:\nTestar outras portas USB.\nAtualizar driver USB.\nTestar dispositivo em outro computador.\nVerificar energia da porta.\nReinstalar controladores USB."
+    },
+
+    {
+      "titulo": "Problema 10 - Teclado ou mouse não funcionam",
+      "imagem": "/imagens/teclado-mouse.jpg",
+      "descricao": "O usuário liga o computador e percebe que teclado ou mouse não respondem. Pode ocorrer em dispositivos USB ou sem fio. Às vezes funciona na BIOS mas não no Windows.\n\nTestes possíveis:\nTrocar porta USB.\nTestar outro teclado.\nVerificar pilhas de dispositivos sem fio.\nAtualizar drivers.\nReiniciar sistema."
+    },
+
+    {
+      "titulo": "Problema 11 - Windows não inicia",
+      "imagem": "/imagens/windows-nao-inicia.jpg",
+      "descricao": "O computador liga mas não entra no Windows. Pode aparecer mensagem de erro ou tela preta. O cliente diz que o problema começou após desligamento inesperado.\n\nTestes possíveis:\nUsar reparo automático.\nEntrar em modo de segurança.\nVerificar integridade do disco.\nExecutar comando SFC.\nRestaurar sistema."
+    },
+
+    {
+      "titulo": "Problema 12 - Tela preta após login",
+      "imagem": "/imagens/tela-preta.jpg",
+      "descricao": "Após digitar senha do Windows a tela fica preta. O cursor pode aparecer mas nada abre. O cliente fica preso nessa tela.\n\nTestes possíveis:\nAbrir gerenciador de tarefas.\nReiniciar explorer.exe.\nEntrar em modo de segurança.\nVerificar driver de vídeo.\nRestaurar sistema."
+    },
+
+    {
+      "titulo": "Problema 13 - Programas fechando sozinhos",
+      "imagem": "/imagens/programas-fechando.jpg",
+      "descricao": "Aplicativos abrem mas fecham inesperadamente. Pode acontecer com vários programas diferentes. O usuário suspeita de vírus ou erro do sistema.\n\nTestes possíveis:\nExecutar antivírus.\nAtualizar sistema.\nVerificar memória RAM.\nReinstalar programas.\nChecar logs de erro."
+    },
+
+    {
+      "titulo": "Problema 14 - WiFi desconectando",
+      "imagem": "/imagens/wifi-caindo.jpg",
+      "descricao": "A conexão WiFi cai frequentemente. O usuário precisa reconectar várias vezes. O problema pode ocorrer apenas em um computador.\n\nTestes possíveis:\nAtualizar driver WiFi.\nAproximar do roteador.\nTestar outra rede.\nVerificar interferência.\nReiniciar adaptador."
+    },
+
+    {
+      "titulo": "Problema 15 - Ventoinha muito barulhenta",
+      "imagem": "/imagens/cooler-barulho.jpg",
+      "descricao": "O computador faz barulho constante vindo das ventoinhas. O cliente percebe aumento do ruído durante uso pesado. Pode indicar acúmulo de poeira.\n\nTestes possíveis:\nLimpar cooler.\nVerificar temperatura.\nChecar pasta térmica.\nTestar controle de fan.\nVerificar ventilação do gabinete."
+    },
+
+    {
+      "titulo": "Problema 16 - Disco cheio constantemente",
+      "imagem": "/imagens/disco-cheio.jpg",
+      "descricao": "O usuário recebe aviso de pouco espaço em disco. Mesmo apagando arquivos o espaço continua desaparecendo. Isso pode afetar desempenho.\n\nTestes possíveis:\nVerificar pasta downloads.\nLimpar arquivos temporários.\nChecar pontos de restauração.\nAnalisar uso de espaço.\nDesinstalar programas."
+    },
+
+    {
+      "titulo": "Problema 17 - Atualização do Windows travada",
+      "imagem": "/imagens/update-travado.jpg",
+      "descricao": "O Windows fica preso atualizando por muito tempo. O computador pode reiniciar várias vezes. O cliente não consegue usar o sistema.\n\nTestes possíveis:\nReiniciar serviço de update.\nLimpar cache de atualização.\nExecutar solucionador de problemas.\nVerificar espaço em disco."
+    },
+
+    {
+      "titulo": "Problema 18 - Áudio não funciona",
+      "imagem": "/imagens/sem-audio.jpg",
+      "descricao": "O computador não reproduz som. O ícone pode indicar erro ou dispositivo desconectado. O problema pode surgir após atualização.\n\nTestes possíveis:\nVerificar dispositivo padrão.\nAtualizar driver de áudio.\nTestar outro alto-falante.\nChecar cabos."
+    },
+
+    {
+      "titulo": "Problema 19 - Computador travando frequentemente",
+      "imagem": "/imagens/travando.jpg",
+      "descricao": "O sistema congela e precisa ser reiniciado. O cliente relata que o mouse para de responder. Pode acontecer durante tarefas simples.\n\nTestes possíveis:\nTestar memória RAM.\nVerificar uso de CPU.\nChecar temperatura.\nAtualizar drivers."
+    },
+
+    {
+      "titulo": "Problema 20 - Aplicativos demorando para abrir",
+      "imagem": "/imagens/apps-lentos.jpg",
+      "descricao": "Programas demoram muito para iniciar. O cliente percebe atraso mesmo em tarefas simples. Pode indicar disco lento ou sobrecarga do sistema.\n\nTestes possíveis:\nVerificar tipo de disco.\nAnalisar uso de recursos.\nDesativar programas de inicialização."
+    },
+
+    {
+      "titulo": "Problema 21 - Impressora não imprime",
+      "imagem": "/imagens/impressora.jpg",
+      "descricao": "O computador reconhece a impressora mas não imprime. Os documentos ficam na fila de impressão.\n\nTestes possíveis:\nReiniciar spooler.\nReinstalar driver.\nTestar cabo USB."
+    },
+
+    {
+      "titulo": "Problema 22 - Bluetooth não conecta",
+      "imagem": "/imagens/bluetooth.jpg",
+      "descricao": "Dispositivos Bluetooth não conectam ao computador. O sistema pode não encontrar dispositivos.\n\nTestes possíveis:\nAtivar Bluetooth.\nAtualizar driver.\nTestar outro dispositivo."
+    },
+
+    {
+      "titulo": "Problema 23 - Arquivos corrompidos",
+      "imagem": "/imagens/arquivo-corrompido.jpg",
+      "descricao": "Arquivos não abrem ou apresentam erro. Pode ocorrer após queda de energia.\n\nTestes possíveis:\nVerificar disco.\nExecutar SFC.\nRestaurar backup."
+    },
+
+    {
+      "titulo": "Problema 24 - Sistema muito quente",
+      "imagem": "/imagens/temperatura.jpg",
+      "descricao": "O gabinete está quente ao toque. O computador pode ficar lento ou desligar.\n\nTestes possíveis:\nMonitorar temperatura.\nLimpar poeira.\nMelhorar ventilação."
+    },
+
+    {
+      "titulo": "Problema 25 - BIOS não reconhece HD",
+      "imagem": "/imagens/bios-hd.jpg",
+      "descricao": "O disco não aparece na BIOS. O sistema não consegue iniciar.\n\nTestes possíveis:\nVerificar cabos SATA.\nTestar outro cabo.\nTestar outro HD."
+    },
+
+    {
+      "titulo": "Problema 26 - Erro de memória",
+      "imagem": "/imagens/memoria.jpg",
+      "descricao": "O sistema apresenta erros relacionados à memória.\n\nTestes possíveis:\nExecutar diagnóstico de memória.\nTestar módulos separadamente."
+    },
+
+    {
+      "titulo": "Problema 27 - SSD muito lento",
+      "imagem": "/imagens/ssd-lento.jpg",
+      "descricao": "O SSD não apresenta desempenho esperado.\n\nTestes possíveis:\nVerificar modo AHCI.\nAtualizar firmware.\nTestar velocidade."
+    },
+
+    {
+      "titulo": "Problema 28 - Cursor travando",
+      "imagem": "/imagens/cursor.jpg",
+      "descricao": "O ponteiro do mouse trava ou se move com atraso.\n\nTestes possíveis:\nTrocar mouse.\nAtualizar driver."
+    },
+
+    {
+      "titulo": "Problema 29 - Sistema não reconhece GPU",
+      "imagem": "/imagens/gpu.jpg",
+      "descricao": "Placa de vídeo não aparece no sistema.\n\nTestes possíveis:\nReinstalar driver.\nTestar slot PCIe."
+    },
+
+    {
+      "titulo": "Problema 30 - Erro ao instalar programa",
+      "imagem": "/imagens/instalacao.jpg",
+      "descricao": "Programas não instalam corretamente.\n\nTestes possíveis:\nExecutar como administrador.\nVerificar espaço em disco."
+    },
+
+    {
+      "titulo": "Problema 31 - Lentidão após atualização",
+      "imagem": "/imagens/update-lento.jpg",
+      "descricao": "Após atualização o sistema ficou lento.\n\nTestes possíveis:\nAtualizar drivers.\nVerificar processos."
+    },
+
+    {
+      "titulo": "Problema 32 - Tela piscando",
+      "imagem": "/imagens/tela-piscando.jpg",
+      "descricao": "O monitor pisca ou perde sinal.\n\nTestes possíveis:\nTrocar cabo.\nAtualizar driver de vídeo."
+    },
+
+    {
+      "titulo": "Problema 33 - Notebook não carrega bateria",
+      "imagem": "/imagens/bateria.jpg",
+      "descricao": "Bateria não carrega mesmo conectado.\n\nTestes possíveis:\nTestar carregador.\nVerificar bateria."
+    },
+
+    {
+      "titulo": "Problema 34 - Arquivos sumindo",
+      "imagem": "/imagens/arquivos.jpg",
+      "descricao": "Arquivos desaparecem do sistema.\n\nTestes possíveis:\nVerificar vírus.\nChecar lixeira."
+    },
+
+    {
+      "titulo": "Problema 35 - Sistema congelando ao abrir jogos",
+      "imagem": "/imagens/jogos.jpg",
+      "descricao": "Jogos travam ou congelam o sistema.\n\nTestes possíveis:\nAtualizar driver GPU.\nMonitorar temperatura."
+    },
+
+    {
+      "titulo": "Problema 36 - Driver incompatível",
+      "imagem": "/imagens/driver.jpg",
+      "descricao": "Hardware apresenta erro de driver.\n\nTestes possíveis:\nReinstalar driver.\nBaixar versão correta."
+    },
+
+    {
+      "titulo": "Problema 37 - Rede lenta",
+      "imagem": "/imagens/rede-lenta.jpg",
+      "descricao": "Velocidade de internet abaixo do esperado.\n\nTestes possíveis:\nTestar cabo.\nTestar outro dispositivo."
+    },
+
+    {
+      "titulo": "Problema 38 - Aplicativo usando muita memória",
+      "imagem": "/imagens/memoria-alta.jpg",
+      "descricao": "Um programa consome muitos recursos.\n\nTestes possíveis:\nFinalizar processo.\nAtualizar programa."
+    },
+
+    {
+      "titulo": "Problema 39 - Disco sempre em 100%",
+      "imagem": "/imagens/disco100.jpg",
+      "descricao": "Uso do disco fica sempre em 100%.\n\nTestes possíveis:\nDesativar serviços.\nVerificar malware."
+    },
+
+    {
+      "titulo": "Problema 40 - Monitor sem sinal",
+      "imagem": "/imagens/monitor.jpg",
+      "descricao": "Monitor não recebe sinal de vídeo.\n\nTestes possíveis:\nVerificar cabos.\nTestar GPU."
+    },
+
+    {
+      "titulo": "Problema 41 - PC demora para desligar",
+      "imagem": "/imagens/desligar.jpg",
+      "descricao": "O sistema leva muito tempo para desligar.\n\nTestes possíveis:\nVerificar programas ativos.\nAtualizar sistema."
+    },
+
+    {
+      "titulo": "Problema 42 - Sistema pedindo reparo automático",
+      "imagem": "/imagens/reparo.jpg",
+      "descricao": "Windows entra sempre em reparo automático.\n\nTestes possíveis:\nExecutar comandos de reparo."
+    },
+
+    {
+      "titulo": "Problema 43 - Programas não respondem",
+      "imagem": "/imagens/nao-responde.jpg",
+      "descricao": "Aplicativos travam frequentemente.\n\nTestes possíveis:\nAtualizar software.\nVerificar memória."
+    },
+
+    {
+      "titulo": "Problema 44 - Erro de permissão",
+      "imagem": "/imagens/permissao.jpg",
+      "descricao": "Sistema bloqueia acesso a arquivos.\n\nTestes possíveis:\nExecutar como administrador."
+    },
+
+    {
+      "titulo": "Problema 45 - PC não reconhece pen drive",
+      "imagem": "/imagens/pendrive.jpg",
+      "descricao": "Pendrive não aparece no sistema.\n\nTestes possíveis:\nTestar outra porta.\nVerificar gerenciamento de disco."
+    },
+
+    {
+      "titulo": "Problema 46 - Notebook esquentando muito",
+      "imagem": "/imagens/notebook-quente.jpg",
+      "descricao": "Notebook esquenta rapidamente.\n\nTestes possíveis:\nLimpeza interna.\nBase refrigerada."
+    },
+
+    {
+      "titulo": "Problema 47 - Falha ao copiar arquivos",
+      "imagem": "/imagens/copiar.jpg",
+      "descricao": "Erro ao transferir arquivos.\n\nTestes possíveis:\nVerificar disco.\nTestar outro cabo."
+    },
+
+    {
+      "titulo": "Problema 48 - Sistema lento após instalar programa",
+      "imagem": "/imagens/programa-lento.jpg",
+      "descricao": "Após instalar software o PC ficou lento.\n\nTestes possíveis:\nDesinstalar programa.\nVerificar processos."
+    },
+
+    {
+      "titulo": "Problema 49 - PC não reconhece câmera",
+      "imagem": "/imagens/webcam.jpg",
+      "descricao": "Webcam não funciona em aplicativos.\n\nTestes possíveis:\nVerificar driver.\nTestar outro programa."
+    },
+
+    {
+      "titulo": "Problema 50 - Erro desconhecido no sistema",
+      "imagem": "/imagens/erro.jpg",
+      "descricao": "O cliente relata mensagens de erro sem explicação clara. O sistema pode apresentar comportamento estranho ou instável. Muitas vezes o problema aparece após atualizações ou instalação de programas.\n\nTestes possíveis:\nAnalisar logs do sistema.\nExecutar antivírus.\nVerificar integridade do Windows.\nTestar hardware.\nAtualizar drivers."
     }
+
   ]
 }
