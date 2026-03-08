@@ -1,1 +1,254 @@
-teste2
+{
+  "slides": [
+    {
+      "titulo": "Problema 401 — Sistema travando ao abrir vários programas",
+      "imagem": "/imagens/process-explorer.jpg",
+      "descricao": "Software: Process Explorer.<br>Investigação: alto consumo de CPU ou memória.<br>Como testar: monitorar processos ativos.<br>Resposta: Encerrar ou otimizar processos problemáticos."
+    },
+    {
+      "titulo": "Problema 402 — Driver de GPU não atualiza",
+      "imagem": "/imagens/geforce-experience.jpg",
+      "descricao": "Software: GeForce Experience / AMD Radeon Software.<br>Investigação: incompatibilidade com versão atual.<br>Como testar: verificar versão instalada.<br>Resposta: Desinstalar driver antigo e instalar versão compatível."
+    },
+    {
+      "titulo": "Problema 403 — Windows não detecta novo SSD",
+      "imagem": "/imagens/crystaldiskinfo.jpg",
+      "descricao": "Software: CrystalDiskInfo.<br>Investigação: porta SATA defeituosa ou cabo solto.<br>Como testar: testar outro cabo ou porta SATA.<br>Resposta: Substituir cabo ou porta e inicializar SSD."
+    },
+    {
+      "titulo": "Problema 404 — Tela azul ao instalar driver",
+      "imagem": "/imagens/bluescreen.jpg",
+      "descricao": "Software: WhoCrashed / BlueScreenView.<br>Investigação: driver incompatível.<br>Como testar: analisar dump de memória.<br>Resposta: Reverter driver ou instalar versão correta."
+    },
+    {
+      "titulo": "Problema 405 — PC reinicia aleatoriamente",
+      "imagem": "/imagens/hwmonitor.jpg",
+      "descricao": "Software: HWMonitor.<br>Investigação: superaquecimento CPU/GPU, fonte instável.<br>Como testar: monitorar temperaturas e voltagens.<br>Resposta: Resolver refrigeração ou substituir fonte."
+    },
+    {
+      "titulo": "Problema 406 — Wi-Fi aparece mas sem internet",
+      "imagem": "/imagens/pingplotter.jpg",
+      "descricao": "Software: PingPlotter.<br>Investigação: DNS incorreto, roteador instável.<br>Como testar: ping para servidor externo.<br>Resposta: Corrigir DNS ou reiniciar roteador."
+    },
+    {
+      "titulo": "Problema 407 — Disco 100% no Gerenciador de Tarefas",
+      "imagem": "/imagens/resource-monitor.jpg",
+      "descricao": "Software: Resource Monitor.<br>Investigação: processos usando disco excessivamente.<br>Como testar: monitorar processos ativos.<br>Resposta: Finalizar processos ou otimizar sistema."
+    },
+    {
+      "titulo": "Problema 408 — Programas fechando sozinhos",
+      "imagem": "/imagens/event-viewer.jpg",
+      "descricao": "Software: Visualizador de Eventos.<br>Investigação: logs de erro, falhas de sistema.<br>Como testar: analisar logs de aplicativo.<br>Resposta: Corrigir conflito ou reinstalar software."
+    },
+    {
+      "titulo": "Problema 409 — Navegador muito lento",
+      "imagem": "/imagens/ccleaner.jpg",
+      "descricao": "Software: CCleaner / BleachBit.<br>Investigação: cache grande, extensões maliciosas.<br>Como testar: limpar cache e desativar extensões.<br>Resposta: Otimizar navegador."
+    },
+    {
+      "titulo": "Problema 410 — Aplicativo bloqueado por antivírus",
+      "imagem": "/imagens/malwarebytes.jpg",
+      "descricao": "Software: Malwarebytes / RKill.<br>Investigação: falso positivo ou malware.<br>Como testar: verificar quarentena e processos.<br>Resposta: Criar exceção ou remover malware."
+    },
+    {
+      "titulo": "Problema 411 — PC não entra no modo seguro",
+      "imagem": "/imagens/msconfig.jpg",
+      "descricao": "Software: MSConfig.<br>Investigação: boot corrompido ou chave de registro.<br>Como testar: tentar com F8 ou configuração de inicialização.<br>Resposta: Reparar boot ou corrigir registro."
+    },
+    {
+      "titulo": "Problema 412 — Periférico não reconhecido",
+      "imagem": "/imagens/device-manager.jpg",
+      "descricao": "Software: Gerenciador de Dispositivos.<br>Investigação: driver ausente ou porta defeituosa.<br>Como testar: trocar porta USB ou reinstalar driver.<br>Resposta: Substituir ou reinstalar driver."
+    },
+    {
+      "titulo": "Problema 413 — Webcam não funciona",
+      "imagem": "/imagens/device-manager.jpg",
+      "descricao": "Software: Gerenciador de Dispositivos.<br>Investigação: driver corrompido ou aplicativo bloqueando.<br>Como testar: reinstalar driver e testar software.<br>Resposta: Atualizar driver ou software da webcam."
+    },
+    {
+      "titulo": "Problema 414 — Microfone mudo",
+      "imagem": "/imagens/sound-settings.jpg",
+      "descricao": "Software: Configurações de Som.<br>Investigação: volume baixo, driver de áudio ausente.<br>Como testar: verificar níveis e reinstalar driver.<br>Resposta: Ajustar níveis ou reinstalar driver."
+    },
+    {
+      "titulo": "Problema 415 — Headset chiando",
+      "imagem": "/imagens/realtek-hd.jpg",
+      "descricao": "Software: Driver de Áudio Realtek.<br>Investigação: interferência ou driver incorreto.<br>Como testar: testar outro driver ou porta.<br>Resposta: Atualizar driver ou trocar dispositivo."
+    },
+    {
+      "titulo": "Problema 416 — PC com input lag",
+      "imagem": "/imagens/process-explorer-cpu.jpg",
+      "descricao": "Software: Process Explorer.<br>Investigação: driver desatualizado, processos pesados.<br>Como testar: monitorar uso de CPU.<br>Resposta: Atualizar driver ou encerrar processos."
+    },
+    {
+      "titulo": "Problema 417 — Overheating constante",
+      "imagem": "/imagens/hwmonitor.jpg",
+      "descricao": "Software: HWMonitor.<br>Investigação: poeira, ventilação ruim.<br>Como testar: monitorar temperaturas.<br>Resposta: Limpeza e melhorar fluxo de ar."
+    },
+    {
+      "titulo": "Problema 418 — Thermal throttling em jogos",
+      "imagem": "/imagens/throttlestop.jpg",
+      "descricao": "Software: ThrottleStop.<br>Investigação: CPU/GPU quente.<br>Como testar: monitorar clock durante carga.<br>Resposta: Melhorar refrigeração e pasta térmica."
+    },
+    {
+      "titulo": "Problema 419 — Software fecha sozinho",
+      "imagem": "/imagens/process-explorer.jpg",
+      "descricao": "Software: Process Explorer.<br>Investigação: RAM insuficiente ou conflito de driver.<br>Como testar: monitorar consumo de memória.<br>Resposta: Encerrar conflito ou adicionar RAM."
+    },
+    {
+      "titulo": "Problema 420 — Steam não abre",
+      "imagem": "/imagens/steam.jpg",
+      "descricao": "Software: Steam Client.<br>Investigação: cache corrompido.<br>Como testar: limpar cache de download.<br>Resposta: Reiniciar cliente ou reinstalar."
+    },
+    {
+      "titulo": "Problema 421 — Discord crasha",
+      "imagem": "/imagens/discord.jpg",
+      "descricao": "Software: Discord.<br>Investigação: driver ou conflito.<br>Como testar: reinstalar ou atualizar driver.<br>Resposta: Corrigir driver ou reinstalar app."
+    },
+    {
+      "titulo": "Problema 422 — Chrome travando",
+      "imagem": "/imagens/chrome.jpg",
+      "descricao": "Software: Google Chrome.<br>Investigação: extensões pesadas ou cache.<br>Como testar: abrir no modo anônimo.<br>Resposta: Remover extensões ou limpar cache."
+    },
+    {
+      "titulo": "Problema 423 — Firefox travando",
+      "imagem": "/imagens/firefox.jpg",
+      "descricao": "Software: Mozilla Firefox.<br>Investigação: plugins ou cache.<br>Como testar: abrir no modo seguro.<br>Resposta: Limpar cache ou desabilitar plugins."
+    },
+    {
+      "titulo": "Problema 424 — Office fecha sozinho",
+      "imagem": "/imagens/office.jpg",
+      "descricao": "Software: Microsoft Office.<br>Investigação: atualizações pendentes ou add-ins.<br>Como testar: abrir sem add-ins.<br>Resposta: Atualizar ou desabilitar add-ins."
+    },
+    {
+      "titulo": "Problema 425 — Windows update travando",
+      "imagem": "/imagens/windows-update.jpg",
+      "descricao": "Software: Windows Update.<br>Investigação: arquivos corrompidos.<br>Como testar: usar ferramenta de reparo de updates.<br>Resposta: Corrigir cache de update."
+    },
+    {
+      "titulo": "Problema 426 — PC lento com RAM livre",
+      "imagem": "/imagens/resource-monitor.jpg",
+      "descricao": "Software: Resource Monitor.<br>Investigação: processos em background.<br>Como testar: monitorar consumo de CPU e RAM.<br>Resposta: Finalizar processos desnecessários."
+    },
+    {
+      "titulo": "Problema 427 — GPU não usada em jogos",
+      "imagem": "/imagens/nvidia-control-panel.jpg",
+      "descricao": "Software: Painel NVIDIA / AMD Radeon.<br>Investigação: GPU integrada ativa.<br>Como testar: configurar GPU dedicada.<br>Resposta: Ativar GPU correta."
+    },
+    {
+      "titulo": "Problema 428 — PC reinicia jogando",
+      "imagem": "/imagens/hwmonitor.jpg",
+      "descricao": "Software: HWMonitor.<br>Investigação: fonte fraca ou temperatura alta.<br>Como testar: monitorar voltagens e temperatura.<br>Resposta: Trocar fonte ou melhorar refrigeração."
+    },
+    {
+      "titulo": "Problema 429 — PC congela aleatoriamente",
+      "imagem": "/imagens/hwmonitor.jpg",
+      "descricao": "Software: HWMonitor.<br>Investigação: RAM defeituosa ou SSD com bad blocks.<br>Como testar: testar RAM e disco.<br>Resposta: Substituir componentes defeituosos."
+    },
+    {
+      "titulo": "Problema 430 — CPU com uso 100% em idle",
+      "imagem": "/imagens/process-explorer-cpu.jpg",
+      "descricao": "Software: Process Explorer.<br>Investigação: malware ou memory leak.<br>Como testar: monitorar processos ativos.<br>Resposta: Encerrar ou remover processos problemáticos."
+    },
+    {
+      "titulo": "Problema 431 — Disco com leitura lenta",
+      "imagem": "/imagens/crystaldiskmark.jpg",
+      "descricao": "Software: CrystalDiskMark.<br>Investigação: fragmentação ou TRIM desativado.<br>Como testar: realizar benchmark.<br>Resposta: Otimizar disco ou habilitar TRIM."
+    },
+    {
+      "titulo": "Problema 432 — Sistema lento após update",
+      "imagem": "/imagens/windows-update.jpg",
+      "descricao": "Software: Windows Update.<br>Investigação: arquivos corrompidos.<br>Como testar: analisar logs de update.<br>Resposta: Restaurar sistema ou limpar cache de updates."
+    },
+    {
+      "titulo": "Problema 433 — PC reinicia sozinho",
+      "imagem": "/imagens/hwmonitor.jpg",
+      "descricao": "Software: HWMonitor.<br>Investigação: superaquecimento ou fonte instável.<br>Como testar: monitorar temperaturas e voltagens.<br>Resposta: Melhorar refrigeração ou trocar fonte."
+    },
+    {
+      "titulo": "Problema 434 — Windows Explorer trava",
+      "imagem": "/imagens/event-viewer.jpg",
+      "descricao": "Software: Visualizador de Eventos.<br>Investigação: plugin defeituoso ou perfil corrompido.<br>Como testar: abrir sem plugins ou criar novo usuário.<br>Resposta: Corrigir perfil ou remover plugin."
+    },
+    {
+      "titulo": "Problema 435 — Menu iniciar não abre",
+      "imagem": "/imagens/event-viewer.jpg",
+      "descricao": "Software: Visualizador de Eventos.<br>Investigação: bug do Windows ou perfil corrompido.<br>Como testar: reiniciar explorer.exe.<br>Resposta: Criar novo usuário ou reparar sistema."
+    },
+    {
+      "titulo": "Problema 436 — Barra de tarefas travada",
+      "imagem": "/imagens/explorer-restart.jpg",
+      "descricao": "Software: Explorer.exe.<br>Investigação: memória cheia ou processo travado.<br>Como testar: reiniciar explorer.exe.<br>Resposta: Reiniciar PC ou processo."
+    },
+    {
+      "titulo": "Problema 437 — Windows não desliga",
+      "imagem": "/imagens/task-manager.jpg",
+      "descricao": "Software: Gerenciador de Tarefas.<br>Investigação: serviço travado ou programa ativo.<br>Como testar: verificar programas ativos.<br>Resposta: Forçar encerramento ou reiniciar sistema."
+    },
+    {
+      "titulo": "Problema 438 — Tela azul ao desligar",
+      "imagem": "/imagens/bluescreen.jpg",
+      "descricao": "Software: BlueScreenView.<br>Investigação: driver incompatível.<br>Como testar: analisar dump de memória.<br>Resposta: Atualizar driver."
+    },
+    {
+      "titulo": "Problema 439 — Windows pede reparo automático",
+      "imagem": "/imagens/windows-repair.jpg",
+      "descricao": "Software: Ferramenta de Reparos do Windows.<br>Investigação: update corrompido.<br>Como testar: analisar histórico de updates.<br>Resposta: Corrigir update ou restaurar sistema."
+    },
+    {
+      "titulo": "Problema 440 — Windows entra em reparo infinito",
+      "imagem": "/imagens/windows-repair.jpg",
+      "descricao": "Software: Ferramenta de Reparos do Windows.<br>Investigação: boot corrompido.<br>Como testar: iniciar via pendrive.<br>Resposta: Reparar boot ou reinstalar Windows."
+    },
+    {
+      "titulo": "Problema 441 — Erro ao instalar programa",
+      "imagem": "/imagens/redistributable.jpg",
+      "descricao": "Software: Visual C++ Redistributable.<br>Investigação: dependência ausente.<br>Como testar: instalar redistributable.<br>Resposta: Corrigir dependência e instalar software."
+    },
+    {
+      "titulo": "Problema 442 — Dispositivo com triângulo amarelo",
+      "imagem": "/imagens/device-manager.jpg",
+      "descricao": "Software: Gerenciador de Dispositivos.<br>Investigação: driver ausente.<br>Como testar: reinstalar driver.<br>Resposta: Instalar driver correto."
+    },
+    {
+      "titulo": "Problema 443 — GPU aparece como Microsoft Basic Display",
+      "imagem": "/imagens/device-manager.jpg",
+      "descricao": "Software: Gerenciador de Dispositivos.<br>Investigação: driver não instalado.<br>Como testar: reinstalar driver da GPU.<br>Resposta: Instalar driver NVIDIA/AMD."
+    },
+    {
+      "titulo": "Problema 444 — Áudio não funciona",
+      "imagem": "/imagens/realtek-hd.jpg",
+      "descricao": "Software: Driver de Áudio Realtek.<br>Investigação: driver ausente ou corrompido.<br>Como testar: reinstalar driver.<br>Resposta: Atualizar driver de áudio."
+    },
+    {
+      "titulo": "Problema 445 — Webcam não detectada",
+      "imagem": "/imagens/device-manager.jpg",
+      "descricao": "Software: Gerenciador de Dispositivos.<br>Investigação: driver faltando.<br>Como testar: reinstalar driver.<br>Resposta: Atualizar driver de webcam."
+    },
+    {
+      "titulo": "Problema 446 — Bluetooth não funciona",
+      "imagem": "/imagens/device-manager.jpg",
+      "descricao": "Software: Gerenciador de Dispositivos.<br>Investigação: driver faltando.<br>Como testar: reinstalar driver.<br>Resposta: Atualizar driver Bluetooth."
+    },
+    {
+      "titulo": "Problema 447 — USB não reconhece dispositivos",
+      "imagem": "/imagens/device-manager.jpg",
+      "descricao": "Software: Gerenciador de Dispositivos.<br>Investigação: driver chipset ou porta defeituosa.<br>Como testar: trocar porta ou reinstalar driver.<br>Resposta: Corrigir driver ou porta."
+    },
+    {
+      "titulo": "Problema 448 — Impressora não aparece",
+      "imagem": "/imagens/printer.jpg",
+      "descricao": "Software: Gerenciador de Dispositivos.<br>Investigação: driver errado ou cabo solto.<br>Como testar: reinstalar driver e testar cabo.<br>Resposta: Atualizar driver e testar conexão."
+    },
+    {
+      "titulo": "Problema 449 — Driver causa tela azul",
+      "imagem": "/imagens/bluescreen.jpg",
+      "descricao": "Software: WhoCrashed / BlueScreenView.<br>Investigação: driver recente incompatível.<br>Como testar: analisar dump de memória.<br>Resposta: Reverter driver para versão anterior."
+    },
+    {
+      "titulo": "Problema 450 — Driver incompatível após update",
+      "imagem": "/imagens/device-manager.jpg",
+      "descricao": "Software: Gerenciador de Dispositivos.<br>Investigação: atualização automática corrompida.<br>Como testar: rollback do driver.<br>Resposta: Reverter driver para versão anterior."
+    }
+  ]
+}
