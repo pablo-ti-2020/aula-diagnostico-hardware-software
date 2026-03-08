@@ -1,1 +1,254 @@
-
+{
+  "slides": [
+    {
+      "titulo": "Problema 201 - PC fica na tela da BIOS",
+      "imagem": "/imagens/boot-bios.jpg",
+      "descricao": "Investigação: Verificar dispositivos de boot.<br>Possíveis causas: HD não detectado.<br>Solução: Verificar cabo SATA ou SSD."
+    },
+    {
+      "titulo": "Problema 202 - PC pede para inserir boot device",
+      "imagem": "/imagens/boot-device.jpg",
+      "descricao": "Investigação: Entrar na BIOS.<br>Possíveis causas: Ordem de boot errada.<br>Solução: Configurar boot corretamente."
+    },
+    {
+      "titulo": "Problema 203 - Windows inicia e reinicia",
+      "imagem": "/imagens/windows-reinicia.jpg",
+      "descricao": "Possíveis causas: Driver defeituoso.<br>Solução: Iniciar em modo seguro e atualizar driver."
+    },
+    {
+      "titulo": "Problema 204 - PC trava antes de carregar Windows",
+      "imagem": "/imagens/pc-trava-boot.jpg",
+      "descricao": "Possíveis causas: HD defeituoso.<br>Solução: Testar disco com ferramenta de diagnóstico."
+    },
+    {
+      "titulo": "Problema 205 - PC demora muito para mostrar BIOS",
+      "imagem": "/imagens/boot-lento.jpg",
+      "descricao": "Possíveis causas: Dispositivo USB defeituoso.<br>Solução: Remover periféricos e reiniciar."
+    },
+    {
+      "titulo": "Problema 206 - Mensagem BOOTMGR missing",
+      "imagem": "/imagens/bootmgr-missing.jpg",
+      "descricao": "Possíveis causas: Boot corrompido.<br>Solução: Reparar boot com mídia de recuperação."
+    },
+    {
+      "titulo": "Problema 207 - Erro NTLDR missing",
+      "imagem": "/imagens/ntldr-missing.jpg",
+      "descricao": "Possíveis causas: Boot loader danificado.<br>Solução: Reparar sistema via mídia de instalação."
+    },
+    {
+      "titulo": "Problema 208 - Tela preta após login",
+      "imagem": "/imagens/tela-preta.jpg",
+      "descricao": "Possíveis causas: explorer.exe não iniciado.<br>Solução: Abrir via Ctrl+Alt+Del e reiniciar explorer."
+    },
+    {
+      "titulo": "Problema 209 - Login infinito Windows",
+      "imagem": "/imagens/login-infinito.jpg",
+      "descricao": "Possíveis causas: Perfil corrompido.<br>Solução: Criar novo usuário."
+    },
+    {
+      "titulo": "Problema 210 - PC trava na tela 'Preparando Windows'",
+      "imagem": "/imagens/preparando-windows.jpg",
+      "descricao": "Possíveis causas: Update incompleto.<br>Solução: Restaurar sistema para ponto anterior."
+    },
+    {
+      "titulo": "Problema 211 - PC trava aleatoriamente",
+      "imagem": "/imagens/pc-trava-ram.jpg",
+      "descricao": "Investigação: Rodar MemTest.<br>Possíveis causas: RAM defeituosa."
+    },
+    {
+      "titulo": "Problema 212 - Windows detecta menos RAM",
+      "imagem": "/imagens/ram-menos.jpg",
+      "descricao": "Possíveis causas: Slot defeituoso.<br>Solução: Testar módulos em outros slots."
+    },
+    {
+      "titulo": "Problema 213 - RAM aparece mas não é utilizável",
+      "imagem": "/imagens/ram-nao-utilizavel.jpg",
+      "descricao": "Possíveis causas: Configuração BIOS.<br>Solução: Resetar BIOS e ajustar configuração de memória."
+    },
+    {
+      "titulo": "Problema 214 - PC reinicia ao abrir programas",
+      "imagem": "/imagens/reinicio-programa.jpg",
+      "descricao": "Possíveis causas: RAM instável.<br>Solução: Testar memória e substituir módulo defeituoso."
+    },
+    {
+      "titulo": "Problema 215 - BSOD frequente",
+      "imagem": "/imagens/bsod.jpg",
+      "descricao": "Possíveis causas: RAM defeituosa.<br>Solução: Testar e substituir memória com defeito."
+    },
+    {
+      "titulo": "Problema 216 - Erro MEMORY_MANAGEMENT",
+      "imagem": "/imagens/memory-management.jpg",
+      "descricao": "Causa: Memória RAM.<br>Solução: Testar memória e reinstalar drivers se necessário."
+    },
+    {
+      "titulo": "Problema 217 - PC trava ao abrir muitas abas",
+      "imagem": "/imagens/abas-muitas.jpg",
+      "descricao": "Causa: RAM insuficiente.<br>Solução: Fechar abas ou aumentar memória disponível."
+    },
+    {
+      "titulo": "Problema 218 - PC trava ao iniciar jogo",
+      "imagem": "/imagens/trava-jogo-ram.jpg",
+      "descricao": "Causa: RAM insuficiente.<br>Solução: Fechar programas em segundo plano ou adicionar RAM."
+    },
+    {
+      "titulo": "Problema 219 - Sistema lento com RAM livre",
+      "imagem": "/imagens/sistema-lento.jpg",
+      "descricao": "Possíveis causas: Processos em background.<br>Solução: Fechar processos desnecessários e otimizar startup."
+    },
+    {
+      "titulo": "Problema 220 - PC não inicia com dois pentes de RAM",
+      "imagem": "/imagens/ram-dual-channel.jpg",
+      "descricao": "Causa: Incompatibilidade entre módulos.<br>Solução: Testar módulos individualmente e trocar slots."
+    },
+    {
+      "titulo": "Problema 221 - Driver GPU não instala",
+      "imagem": "/imagens/driver-gpu.jpg",
+      "descricao": "Possíveis causas: Driver errado.<br>Solução: Baixar driver correto do fabricante e reinstalar."
+    },
+    {
+      "titulo": "Problema 222 - GPU não aparece no gerenciador",
+      "imagem": "/imagens/gpu-nao-aparece.jpg",
+      "descricao": "Causa: Driver ausente.<br>Solução: Instalar driver da GPU."
+    },
+    {
+      "titulo": "Problema 223 - Tela piscando",
+      "imagem": "/imagens/tela-piscando.jpg",
+      "descricao": "Causa: Driver GPU.<br>Solução: Atualizar ou reinstalar driver de vídeo."
+    },
+    {
+      "titulo": "Problema 224 - Resolução baixa travada",
+      "imagem": "/imagens/resolucao-baixa.jpg",
+      "descricao": "Causa: Driver de vídeo.<br>Solução: Atualizar driver e ajustar resolução."
+    },
+    {
+      "titulo": "Problema 225 - Jogos crashando",
+      "imagem": "/imagens/jogos-crash.jpg",
+      "descricao": "Causa: Driver GPU.<br>Solução: Atualizar driver da placa de vídeo."
+    },
+    {
+      "titulo": "Problema 226 - GPU 100% mesmo sem uso",
+      "imagem": "/imagens/gpu-100.jpg",
+      "descricao": "Causa: Malware.<br>Solução: Escanear sistema e remover malware."
+    },
+    {
+      "titulo": "Problema 227 - GPU não acelera vídeo",
+      "imagem": "/imagens/gpu-video.jpg",
+      "descricao": "Causa: Driver desatualizado.<br>Solução: Atualizar driver de vídeo."
+    },
+    {
+      "titulo": "Problema 228 - Artefatos em jogos",
+      "imagem": "/imagens/artfatos-gpu.jpg",
+      "descricao": "Causa: GPU defeituosa.<br>Solução: Testar placa e substituir se necessário."
+    },
+    {
+      "titulo": "Problema 229 - GPU superaquecendo",
+      "imagem": "/imagens/gpu-aquecimento.jpg",
+      "descricao": "Causa: Cooler sujo.<br>Solução: Limpar cooler e verificar fluxo de ar."
+    },
+    {
+      "titulo": "Problema 230 - Placa de vídeo não usada",
+      "imagem": "/imagens/gpu-integrada.jpg",
+      "descricao": "Causa: GPU integrada ativa.<br>Solução: Desativar GPU integrada na BIOS."
+    },
+    {
+      "titulo": "Problema 231 - SSD desaparece",
+      "imagem": "/imagens/ssd-desaparece.jpg",
+      "descricao": "Possíveis causas: Porta SATA defeituosa.<br>Solução: Testar em outra porta ou cabo SATA."
+    },
+    {
+      "titulo": "Problema 232 - HD lento ao abrir arquivos",
+      "imagem": "/imagens/hd-lento.jpg",
+      "descricao": "Causa: Fragmentação.<br>Solução: Desfragmentar disco ou migrar para SSD."
+    },
+    {
+      "titulo": "Problema 233 - Erro SMART",
+      "imagem": "/imagens/smart-erro.jpg",
+      "descricao": "Causa: HD falhando.<br>Solução: Substituir disco e fazer backup."
+    },
+    {
+      "titulo": "Problema 234 - Sistema trava ao copiar arquivos",
+      "imagem": "/imagens/bad-sectors.jpg",
+      "descricao": "Causa: Bad sectors.<br>Solução: Testar disco e reparar setores defeituosos."
+    },
+    {
+      "titulo": "Problema 235 - Disco não inicializa",
+      "imagem": "/imagens/disco-nao-inicializa.jpg",
+      "descricao": "Solução: Inicializar disco no Gerenciamento de Disco do Windows."
+    },
+    {
+      "titulo": "Problema 236 - Erro acesso negado disco",
+      "imagem": "/imagens/erro-acesso.jpg",
+      "descricao": "Causa: Permissões.<br>Solução: Ajustar permissões do sistema de arquivos."
+    },
+    {
+      "titulo": "Problema 237 - Disco cheio sem motivo",
+      "imagem": "/imagens/disco-cheio.jpg",
+      "descricao": "Causa: Logs gigantes.<br>Solução: Limpar arquivos de log e temporários."
+    },
+    {
+      "titulo": "Problema 238 - Partição desapareceu",
+      "imagem": "/imagens/particao-desaparece.jpg",
+      "descricao": "Causa: Corrupção da tabela de partição.<br>Solução: Recuperar partição com software de recuperação."
+    },
+    {
+      "titulo": "Problema 239 - Sistema demora para abrir programas",
+      "imagem": "/imagens/hd-lento-programas.jpg",
+      "descricao": "Causa: HD mecânico.<br>Solução: Migrar para SSD ou otimizar disco."
+    },
+    {
+      "titulo": "Problema 240 - SSD com desempenho baixo",
+      "imagem": "/imagens/ssd-lento.jpg",
+      "descricao": "Causa: Modo SATA errado.<br>Solução: Ajustar modo SATA na BIOS (AHCI)."
+    },
+    {
+      "titulo": "Problema 241 - Programa abre e fecha",
+      "imagem": "/imagens/programa-abre-fecha.jpg",
+      "descricao": "Causa: DLL ausente.<br>Solução: Reinstalar software ou registrar DLL faltante."
+    },
+    {
+      "titulo": "Problema 242 - Erro runtime",
+      "imagem": "/imagens/runtime.jpg",
+      "descricao": "Causa: Biblioteca faltando.<br>Solução: Instalar runtime necessário."
+    },
+    {
+      "titulo": "Problema 243 - Software não inicia",
+      "imagem": "/imagens/software-nao-inicia.jpg",
+      "descricao": "Causa: Dependência ausente.<br>Solução: Instalar dependências do software."
+    },
+    {
+      "titulo": "Problema 244 - Erro Visual C++",
+      "imagem": "/imagens/visual-cpp.jpg",
+      "descricao": "Solução: Instalar Visual C++ Redistributable."
+    },
+    {
+      "titulo": "Problema 245 - Erro DirectX",
+      "imagem": "/imagens/directx.jpg",
+      "descricao": "Solução: Instalar ou atualizar DirectX."
+    },
+    {
+      "titulo": "Problema 246 - Erro .NET Framework",
+      "imagem": "/imagens/dotnet.jpg",
+      "descricao": "Solução: Instalar ou reparar .NET Framework."
+    },
+    {
+      "titulo": "Problema 247 - Software trava",
+      "imagem": "/imagens/software-trava.jpg",
+      "descricao": "Causa: Conflito de drivers.<br>Solução: Atualizar drivers e reiniciar sistema."
+    },
+    {
+      "titulo": "Problema 248 - Aplicativo não responde",
+      "imagem": "/imagens/app-nao-responde.jpg",
+      "descricao": "Causa: Uso alto de CPU.<br>Solução: Fechar aplicativos pesados e monitorar desempenho."
+    },
+    {
+      "titulo": "Problema 249 - Software abre lento",
+      "imagem": "/imagens/software-lento.jpg",
+      "descricao": "Causa: Disco lento.<br>Solução: Otimizar disco ou migrar para SSD."
+    },
+    {
+      "titulo": "Problema 250 - Atualização de software falha",
+      "imagem": "/imagens/update-falha.jpg",
+      "descricao": "Causa: Conexão de internet instável.<br>Solução: Verificar rede e tentar novamente."
+    }
+  ]
+}
