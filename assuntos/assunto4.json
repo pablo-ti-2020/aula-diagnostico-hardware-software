@@ -4,102 +4,102 @@
     {
       "titulo": "Problema 131 - Disco 100% constantemente",
       "imagem": "/imagens/disco100.jpg",
-      "descricao": "Possíveis causas: Windows Update ou processos em segundo plano.<br>Solução: Verificar processos e atualizar drivers."
+      "descricao": "O uso do disco fica sempre em 100%.<br>Possíveis causas: Windows Update ou processos em segundo plano.<br>Testes possíveis:<br>Verificar processos ativos.<br>Atualizar drivers.<br>Desativar serviços desnecessários."
     },
     {
       "titulo": "Problema 132 - HD sumiu no sistema",
       "imagem": "/imagens/hd-sumiu.jpg",
-      "descricao": "Investigação: Gerenciamento de Disco.<br>Possíveis causas: cabos SATA soltos ou HD com defeito.<br>Solução: Reconectar cabos ou testar outro HD."
+      "descricao": "O disco rígido não aparece no sistema.<br>Possíveis causas: cabos SATA soltos ou HD com defeito.<br>Testes possíveis:<br>Verificar Gerenciamento de Disco.<br>Reconectar cabos.<br>Testar outro HD."
     },
     {
       "titulo": "Problema 133 - Disco aparece mas não abre",
       "imagem": "/imagens/disco-nao-abre.jpg",
-      "descricao": "Possíveis causas: sistema de arquivos corrompido.<br>Solução: Reparar disco com CHKDSK ou ferramenta equivalente."
+      "descricao": "O disco é detectado, mas não é acessível.<br>Possíveis causas: sistema de arquivos corrompido.<br>Testes possíveis:<br>Reparar disco com CHKDSK.<br>Usar ferramenta de recuperação de disco."
     },
     {
       "titulo": "Problema 134 - Arquivos sumindo",
       "imagem": "/imagens/arquivos-sumindo.jpg",
-      "descricao": "Possíveis causas: vírus ou malware.<br>Solução: Executar antivírus completo e restaurar backups."
+      "descricao": "Arquivos desaparecem do sistema.<br>Possíveis causas: vírus ou malware.<br>Testes possíveis:<br>Executar antivírus completo.<br>Restaurar backups."
     },
     {
       "titulo": "Problema 135 - Erro ao copiar arquivos",
       "imagem": "/imagens/erro-copiar.jpg",
-      "descricao": "Possíveis causas: HD com setores defeituosos.<br>Solução: Testar outro disco e realizar backup."
+      "descricao": "Erro ao transferir arquivos.<br>Possíveis causas: HD com setores defeituosos.<br>Testes possíveis:<br>Testar outro disco.<br>Realizar backup."
     },
     {
       "titulo": "Problema 136 - SSD muito lento",
       "imagem": "/imagens/ssd-lento.jpg",
-      "descricao": "Possíveis causas: TRIM desativado ou firmware desatualizado.<br>Solução: Ativar TRIM e atualizar firmware do SSD."
+      "descricao": "O SSD apresenta desempenho abaixo do esperado.<br>Possíveis causas: TRIM desativado ou firmware desatualizado.<br>Testes possíveis:<br>Ativar TRIM.<br>Atualizar firmware do SSD."
     },
     {
       "titulo": "Problema 137 - PC trava ao acessar disco",
       "imagem": "/imagens/trava-disco.jpg",
-      "descricao": "Possíveis causas: bad blocks ou falha no disco.<br>Solução: Testar disco e realizar backup imediato."
+      "descricao": "O sistema trava ao acessar o disco.<br>Possíveis causas: bad blocks ou falha no disco.<br>Testes possíveis:<br>Testar disco.<br>Realizar backup imediato."
     },
     {
       "titulo": "Problema 138 - Disco não inicializado",
       "imagem": "/imagens/disco-nao-inicializado.jpg",
-      "descricao": "Solução: Inicializar disco no Gerenciamento de Disco do Windows."
+      "descricao": "O disco não foi inicializado no sistema.<br>Testes possíveis:<br>Inicializar disco no Gerenciamento de Disco do Windows."
     },
     {
       "titulo": "Problema 139 - Partição inacessível",
       "imagem": "/imagens/particao-inacessivel.jpg",
-      "descricao": "Possíveis causas: corrupção do sistema de arquivos.<br>Solução: Reparar com CHKDSK ou ferramenta de recuperação."
+      "descricao": "A partição não pode ser acessada.<br>Possíveis causas: corrupção do sistema de arquivos.<br>Testes possíveis:<br>Reparar com CHKDSK.<br>Usar ferramenta de recuperação."
     },
     {
       "titulo": "Problema 140 - Erro 'delayed write failed'",
       "imagem": "/imagens/delayed-write.jpg",
-      "descricao": "Possíveis causas: falha no disco ou sistema de arquivos.<br>Solução: Testar disco e verificar integridade."
+      "descricao": "Erro de escrita atrasada em disco.<br>Possíveis causas: falha no disco ou sistema de arquivos.<br>Testes possíveis:<br>Testar disco.<br>Verificar integridade do sistema de arquivos."
     },
     {
       "titulo": "Problema 141 - CPU 95°C",
       "imagem": "/imagens/cpu-alta.jpg",
-      "descricao": "Investigação: HWMonitor.<br>Possíveis causas: pasta térmica velha ou cooler sujo.<br>Solução: Trocar pasta térmica e limpar cooler."
+      "descricao": "A CPU atinge temperaturas muito altas.<br>Possíveis causas: pasta térmica velha ou cooler sujo.<br>Testes possíveis:<br>Trocar pasta térmica.<br>Limpar cooler.<br>Verificar fluxo de ar."
     },
     {
       "titulo": "Problema 142 - GPU 90°C",
       "imagem": "/imagens/gpu-alta.jpg",
-      "descricao": "Possíveis causas: cooler sujo ou fluxo de ar ruim.<br>Solução: Limpar cooler e melhorar ventilação."
+      "descricao": "A GPU atinge temperaturas elevadas.<br>Possíveis causas: cooler sujo ou fluxo de ar ruim.<br>Testes possíveis:<br>Limpar cooler.<br>Melhorar ventilação do gabinete."
     },
     {
       "titulo": "Problema 143 - CPU reduz clock",
       "imagem": "/imagens/cpu-throttling.jpg",
-      "descricao": "Causa: Thermal throttling devido a superaquecimento.<br>Solução: Melhorar resfriamento ou ajustar BIOS."
+      "descricao": "A CPU diminui a frequência automaticamente.<br>Causa: Thermal throttling devido a superaquecimento.<br>Testes possíveis:<br>Melhorar resfriamento.<br>Ajustar configurações na BIOS."
     },
     {
       "titulo": "Problema 144 - FPS instável",
       "imagem": "/imagens/fps-instavel.jpg",
-      "descricao": "Possíveis causas: CPU gargalo ou drivers desatualizados.<br>Solução: Atualizar drivers e otimizar configurações do jogo."
+      "descricao": "O jogo apresenta FPS instável.<br>Possíveis causas: gargalo de CPU ou drivers desatualizados.<br>Testes possíveis:<br>Atualizar drivers.<br>Otimizar configurações do jogo."
     },
     {
       "titulo": "Problema 145 - PC esquenta muito",
       "imagem": "/imagens/pc-quente.jpg",
-      "descricao": "Causa: Fluxo de ar ruim ou poeira acumulada.<br>Solução: Limpar gabinete e reorganizar cabos para melhorar ventilação."
+      "descricao": "O computador esquenta excessivamente.<br>Causa: fluxo de ar ruim ou poeira acumulada.<br>Testes possíveis:<br>Limpar gabinete.<br>Reorganizar cabos."
     },
     {
       "titulo": "Problema 146 - GPU usage baixo",
       "imagem": "/imagens/gpu-baixo.jpg",
-      "descricao": "Causa: CPU limita desempenho da GPU (CPU bottleneck).<br>Solução: Ajustar configurações do jogo ou atualizar CPU."
+      "descricao": "Uso da GPU menor que o esperado.<br>Causa: CPU limita desempenho da GPU (CPU bottleneck).<br>Testes possíveis:<br>Ajustar configurações do jogo.<br>Atualizar CPU se necessário."
     },
     {
       "titulo": "Problema 147 - CPU uso baixo mas PC lento",
       "imagem": "/imagens/cpu-baixo-pc-lento.jpg",
-      "descricao": "Possíveis causas: HD lento ou processos em background.<br>Solução: Substituir HD por SSD e otimizar sistema."
+      "descricao": "CPU com baixo uso, mas sistema lento.<br>Possíveis causas: HD lento ou processos em background.<br>Testes possíveis:<br>Substituir HD por SSD.<br>Otimizar sistema."
     },
     {
       "titulo": "Problema 148 - Uso RAM alto parado",
       "imagem": "/imagens/ram-alta.jpg",
-      "descricao": "Possíveis causas: software em background consumindo memória.<br>Solução: Finalizar processos desnecessários ou reiniciar PC."
+      "descricao": "Memória RAM alta mesmo sem uso intenso.<br>Possíveis causas: softwares em background consumindo memória.<br>Testes possíveis:<br>Finalizar processos desnecessários.<br>Reiniciar PC."
     },
     {
       "titulo": "Problema 149 - Temperatura normal mas PC trava",
       "imagem": "/imagens/pc-trava-ram.jpg",
-      "descricao": "Possíveis causas: RAM defeituosa.<br>Solução: Testar memória com MemTest ou substituir módulos defeituosos."
+      "descricao": "Sistema trava mesmo com temperatura normal.<br>Possíveis causas: RAM defeituosa.<br>Testes possíveis:<br>Testar memória com MemTest.<br>Substituir módulos defeituosos."
     },
     {
       "titulo": "Problema 150 - PC trava sob carga",
       "imagem": "/imagens/pc-trava-carga.jpg",
-      "descricao": "Possíveis causas: fonte de alimentação fraca ou instável.<br>Solução: Testar fonte ou substituir por uma adequada."
+      "descricao": "PC trava ao executar tarefas pesadas.<br>Possíveis causas: fonte de alimentação fraca ou instável.<br>Testes possíveis:<br>Testar fonte.<br>Substituir por fonte adequada."
     }
   ]
 }
