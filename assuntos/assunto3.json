@@ -1,25 +1,155 @@
 {
-  "nome": "Viabilidade",
+  "nome": "Diagnóstico de Problemas em Computadores - Parte 3",
   "slides": [
     {
-      "titulo": "Slide 1 - O que é Viabilidade?",
-      "imagem": "https://via.placeholder.com/400",
-      "descricao": "Viabilidade analisa se um projeto pode ser executado."
+      "titulo": "Problema 101 - Windows trava ao abrir arquivos",
+      "imagem": "/imagens/windows-trava-arquivos.jpg",
+      "descricao": "Investigação: Abrir Gerenciador de Tarefas.<br>Possíveis causas: HD lento, SSD defeituoso.<br>Solução: Testar disco com CrystalDiskInfo.<br>Explicação: Disco lento impede leitura de arquivos."
     },
     {
-      "titulo": "Slide 2 - Viabilidade Técnica",
-      "imagem": "https://via.placeholder.com/400",
-      "descricao": "Avalia se existe capacidade técnica para executar o projeto."
+      "titulo": "Problema 102 - Windows Explorer reinicia sozinho",
+      "imagem": "/imagens/explorer-reinicia.jpg",
+      "descricao": "Investigação: Verificar eventos no Visualizador de Eventos.<br>Possíveis causas: arquivo corrompido, plugin defeituoso.<br>Solução: Rodar sfc /scannow."
     },
     {
-      "titulo": "Slide 3 - Viabilidade Financeira",
-      "imagem": "https://via.placeholder.com/400",
-      "descricao": "Analisa custos, investimentos e retorno."
+      "titulo": "Problema 103 - Menu iniciar não abre",
+      "imagem": "/imagens/menu-iniciar.jpg",
+      "descricao": "Investigação: Reiniciar processo explorer.exe.<br>Possíveis causas: bug do Windows.<br>Solução: Criar novo usuário."
     },
     {
-      "titulo": "Slide 4 - Viabilidade Legal",
-      "imagem": "https://via.placeholder.com/400",
-      "descricao": "Verifica se o projeto atende às normas e leis."
+      "titulo": "Problema 104 - Barra de tarefas travada",
+      "imagem": "/imagens/barra-tarefas-travada.jpg",
+      "descricao": "Investigação: Reiniciar explorer.exe.<br>Possíveis causas: memória cheia.<br>Solução: Reiniciar PC."
+    },
+    {
+      "titulo": "Problema 105 - Windows não desliga",
+      "imagem": "/imagens/windows-nao-desliga.jpg",
+      "descricao": "Investigação: Verificar programas ativos.<br>Possíveis causas: serviço travado.<br>Solução: Forçar encerramento."
+    },
+    {
+      "titulo": "Problema 106 - Windows demora para desligar",
+      "imagem": "/imagens/windows-lento-desligar.jpg",
+      "descricao": "Investigação: Ver serviços iniciando.<br>Ferramenta: msconfig.<br>Possíveis causas: programas em segundo plano."
+    },
+    {
+      "titulo": "Problema 107 - Tela azul ao desligar",
+      "imagem": "/imagens/blue-screen.jpg",
+      "descricao": "Possíveis causas: driver incompatível.<br>Solução: Atualizar drivers."
+    },
+    {
+      "titulo": "Problema 108 - Windows pede reparo automático",
+      "imagem": "/imagens/reparo-automatico.jpg",
+      "descricao": "Investigação: Ver histórico de updates.<br>Possíveis causas: update corrompido."
+    },
+    {
+      "titulo": "Problema 109 - Windows entra em reparo infinito",
+      "imagem": "/imagens/reparo-infinito.jpg",
+      "descricao": "Possíveis causas: boot corrompido.<br>Solução: Reparar com pendrive bootável."
+    },
+    {
+      "titulo": "Problema 110 - Erro ao instalar programa",
+      "imagem": "/imagens/erro-instalar.jpg",
+      "descricao": "Possíveis causas: Visual C++ ausente.<br>Solução: Instalar redistributable."
+    },
+    {
+      "titulo": "Problema 111 - Dispositivo com triângulo amarelo",
+      "imagem": "/imagens/triangulo-amarelo.jpg",
+      "descricao": "Investigação: Gerenciador de Dispositivos.<br>Possíveis causas: driver ausente.<br>Solução: Instalar driver correto."
+    },
+    {
+      "titulo": "Problema 112 - GPU aparece como 'Microsoft Basic Display'",
+      "imagem": "/imagens/gpu-microsoft.jpg",
+      "descricao": "Possíveis causas: driver não instalado.<br>Solução: Instalar driver NVIDIA ou AMD."
+    },
+    {
+      "titulo": "Problema 113 - Áudio não funciona",
+      "imagem": "/imagens/audio.jpg",
+      "descricao": "Investigação: Ver driver Realtek.<br>Solução: Atualizar driver de áudio."
+    },
+    {
+      "titulo": "Problema 114 - Webcam não detectada",
+      "imagem": "/imagens/webcam.jpg",
+      "descricao": "Possíveis causas: driver faltando.<br>Solução: Instalar driver da webcam."
+    },
+    {
+      "titulo": "Problema 115 - Bluetooth não funciona",
+      "imagem": "/imagens/bluetooth.jpg",
+      "descricao": "Possíveis causas: driver faltando.<br>Solução: Atualizar driver do Bluetooth."
+    },
+    {
+      "titulo": "Problema 116 - USB não reconhece dispositivos",
+      "imagem": "/imagens/usb.jpg",
+      "descricao": "Possíveis causas: driver do chipset.<br>Solução: Atualizar driver do chipset."
+    },
+    {
+      "titulo": "Problema 117 - Impressora não aparece",
+      "imagem": "/imagens/impressora.jpg",
+      "descricao": "Possíveis causas: driver errado.<br>Solução: Instalar driver correto."
+    },
+    {
+      "titulo": "Problema 118 - Driver causa tela azul",
+      "imagem": "/imagens/driver-blue.jpg",
+      "descricao": "Solução: Voltar para driver anterior."
+    },
+    {
+      "titulo": "Problema 119 - Driver incompatível após update",
+      "imagem": "/imagens/driver-update.jpg",
+      "descricao": "Solução: Fazer rollback do driver."
+    },
+    {
+      "titulo": "Problema 120 - Dispositivo aparece e desaparece",
+      "imagem": "/imagens/dispositivo-usb.jpg",
+      "descricao": "Possíveis causas: porta USB defeituosa.<br>Solução: Trocar porta ou testar cabo."
+    },
+    {
+      "titulo": "Problema 121 - PC conecta Wi-Fi mas sem internet",
+      "imagem": "/imagens/wifi-sem-internet.jpg",
+      "descricao": "Investigação: ipconfig.<br>Possíveis causas: DNS errado.<br>Solução: Configurar DNS corretamente."
+    },
+    {
+      "titulo": "Problema 122 - Internet muito lenta",
+      "imagem": "/imagens/internet-lenta.jpg",
+      "descricao": "Investigação: Teste de velocidade.<br>Possíveis causas: malware ou congestionamento."
+    },
+    {
+      "titulo": "Problema 123 - IP inválido",
+      "imagem": "/imagens/ip-invalido.jpg",
+      "descricao": "Possíveis causas: DHCP falhou.<br>Solução: Reconfigurar rede ou reiniciar roteador."
+    },
+    {
+      "titulo": "Problema 124 - PC não recebe IP",
+      "imagem": "/imagens/ip-nao.jpg",
+      "descricao": "Solução: ipconfig /release<br>ipconfig /renew"
+    },
+    {
+      "titulo": "Problema 125 - DNS não resolve sites",
+      "imagem": "/imagens/dns.jpg",
+      "descricao": "Solução: ipconfig /flushdns"
+    },
+    {
+      "titulo": "Problema 126 - WiFi desconectando",
+      "imagem": "/imagens/wifi-desconecta.jpg",
+      "descricao": "Possíveis causas: driver de rede.<br>Solução: Atualizar driver de rede."
+    },
+    {
+      "titulo": "Problema 127 - Ethernet sem conexão",
+      "imagem": "/imagens/ethernet.jpg",
+      "descricao": "Possíveis causas: cabo defeituoso.<br>Solução: Trocar cabo ou porta."
+    },
+    {
+      "titulo": "Problema 128 - Ping alto",
+      "imagem": "/imagens/ping-alto.jpg",
+      "descricao": "Possíveis causas: rede congestionada.<br>Solução: Verificar tráfego na rede."
+    },
+    {
+      "titulo": "Problema 129 - Conexão limitada",
+      "imagem": "/imagens/conexao-limitada.jpg",
+      "descricao": "Possíveis causas: configuração IP manual incorreta.<br>Solução: Ajustar configurações de rede."
+    },
+    {
+      "titulo": "Problema 130 - Windows não detecta rede",
+      "imagem": "/imagens/windows-sem-rede.jpg",
+      "descricao": "Possíveis causas: placa de rede desativada.<br>Solução: Ativar placa de rede na BIOS ou Windows."
     }
   ]
 }
