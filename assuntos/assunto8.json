@@ -1,1 +1,254 @@
-teste
+{
+  "slides": [
+    {
+      "titulo": "Problema 301 - Qual é o modelo exato da CPU instalada?",
+      "imagem": "/imagens/cpu-modelo.jpg",
+      "descricao": "Software: CPU-Z, HWiNFO.<br>Solução: Abrir software e verificar modelo exato."
+    },
+    {
+      "titulo": "Problema 302 - A CPU está rodando na frequência correta?",
+      "imagem": "/imagens/cpu-frequencia.jpg",
+      "descricao": "Software: CPU-Z.<br>Solução: Conferir frequência nominal vs frequência atual."
+    },
+    {
+      "titulo": "Problema 303 - Qual é a temperatura atual da CPU em idle?",
+      "imagem": "/imagens/cpu-temperatura.jpg",
+      "descricao": "Software: HWMonitor.<br>Solução: Monitorar temperatura em repouso para detectar aquecimento."
+    },
+    {
+      "titulo": "Problema 304 - A CPU sofre thermal throttling?",
+      "imagem": "/imagens/thermal-throttling.jpg",
+      "descricao": "Software: ThrottleStop.<br>Solução: Observar redução de clock e temperatura máxima."
+    },
+    {
+      "titulo": "Problema 305 - Qual é o modelo da placa de vídeo instalada?",
+      "imagem": "/imagens/gpu-modelo.jpg",
+      "descricao": "Software: GPU-Z.<br>Solução: Conferir modelo e driver instalado."
+    },
+    {
+      "titulo": "Problema 306 - A GPU usa 100% durante jogos?",
+      "imagem": "/imagens/gpu-uso.jpg",
+      "descricao": "Software: MSI Afterburner.<br>Solução: Monitorar uso em jogos e benchmarks."
+    },
+    {
+      "titulo": "Problema 307 - Qual é a temperatura da GPU durante carga?",
+      "imagem": "/imagens/gpu-temperatura.jpg",
+      "descricao": "Software: MSI Afterburner.<br>Solução: Monitorar temperatura sob stress para evitar overheating."
+    },
+    {
+      "titulo": "Problema 308 - O computador está rodando em Dual Channel ou Single Channel?",
+      "imagem": "/imagens/dual-channel.jpg",
+      "descricao": "Software: CPU-Z.<br>Solução: Verificar configuração de memória na aba Memory."
+    },
+    {
+      "titulo": "Problema 309 - Qual é a velocidade real da memória RAM?",
+      "imagem": "/imagens/ram-velocidade.jpg",
+      "descricao": "Software: CPU-Z.<br>Solução: Conferir frequência DRAM e aplicar multiplicador correto."
+    },
+    {
+      "titulo": "Problema 310 - Qual é o chipset da placa-mãe?",
+      "imagem": "/imagens/chipset.jpg",
+      "descricao": "Software: Speccy.<br>Solução: Abrir Speccy e verificar modelo e versão do chipset."
+    },
+    {
+      "titulo": "Problema 311 - O HD está saudável ou prestes a falhar?",
+      "imagem": "/imagens/hd-saude.jpg",
+      "descricao": "Software: CrystalDiskInfo.<br>Solução: Verificar status SMART e alertas do disco."
+    },
+    {
+      "titulo": "Problema 312 - O disco possui setores defeituosos?",
+      "imagem": "/imagens/hd-setores.jpg",
+      "descricao": "Software: HD Tune.<br>Solução: Testar disco em scan de setores e reparar se possível."
+    },
+    {
+      "titulo": "Problema 313 - Qual é a velocidade de leitura do SSD?",
+      "imagem": "/imagens/ssd-velocidade.jpg",
+      "descricao": "Software: CrystalDiskMark.<br>Solução: Medir velocidade sequencial e aleatória."
+    },
+    {
+      "titulo": "Problema 314 - O disco apresenta erros SMART?",
+      "imagem": "/imagens/smart-erros.jpg",
+      "descricao": "Software: GSmartControl.<br>Solução: Analisar atributos SMART e tomar ação preventiva."
+    },
+    {
+      "titulo": "Problema 315 - Um HD antigo está com desempenho degradado?",
+      "imagem": "/imagens/hd-lento.jpg",
+      "descricao": "Software: HD Tune.<br>Solução: Testar taxa de transferência e considerar substituição."
+    },
+    {
+      "titulo": "Problema 316 - O SSD está rodando em SATA ou NVMe?",
+      "imagem": "/imagens/ssd-sata-nvme.jpg",
+      "descricao": "Software: HWiNFO.<br>Solução: Conferir interface e modo de operação."
+    },
+    {
+      "titulo": "Problema 317 - Existe partição perdida no disco?",
+      "imagem": "/imagens/particao-perdida.jpg",
+      "descricao": "Software: TestDisk.<br>Solução: Recuperar partições ausentes e salvar dados."
+    },
+    {
+      "titulo": "Problema 318 - O disco foi inicializado corretamente?",
+      "imagem": "/imagens/disco-inicializado.jpg",
+      "descricao": "Software: MiniTool Partition Wizard.<br>Solução: Verificar tabela de partição e inicialização."
+    },
+    {
+      "titulo": "Problema 319 - O disco apresenta bad blocks?",
+      "imagem": "/imagens/bad-blocks.jpg",
+      "descricao": "Software: Victoria.<br>Solução: Testar e isolar setores defeituosos."
+    },
+    {
+      "titulo": "Problema 320 - A tabela de partições foi corrompida?",
+      "imagem": "/imagens/particoes-corrompidas.jpg",
+      "descricao": "Software: TestDisk.<br>Solução: Recuperar tabela de partição ou restaurar backup."
+    },
+    {
+      "titulo": "Problema 321 - A CPU está estável sob carga?",
+      "imagem": "/imagens/cpu-stress.jpg",
+      "descricao": "Software: Prime95.<br>Solução: Rodar testes de stress e monitorar temperatura e clock."
+    },
+    {
+      "titulo": "Problema 322 - A placa de vídeo suporta carga intensa?",
+      "imagem": "/imagens/gpu-stress.jpg",
+      "descricao": "Software: FurMark.<br>Solução: Realizar benchmark e monitorar uso e temperatura."
+    },
+    {
+      "titulo": "Problema 323 - Qual é o score de performance da CPU?",
+      "imagem": "/imagens/cpu-score.jpg",
+      "descricao": "Software: Cinebench.<br>Solução: Executar benchmark e comparar com valores de referência."
+    },
+    {
+      "titulo": "Problema 324 - Computador apresenta instabilidade em benchmarks?",
+      "imagem": "/imagens/benchmark-instavel.jpg",
+      "descricao": "Software: OCCT.<br>Solução: Testar estabilidade sob carga e corrigir problemas de hardware."
+    },
+    {
+      "titulo": "Problema 325 - GPU apresenta artefatos em stress test?",
+      "imagem": "/imagens/gpu-artefatos.jpg",
+      "descricao": "Software: FurMark.<br>Solução: Monitorar temperatura e substituir GPU se necessário."
+    },
+    {
+      "titulo": "Problema 326 - A memória RAM possui erros?",
+      "imagem": "/imagens/ram-erros.jpg",
+      "descricao": "Software: MemTest86.<br>Solução: Rodar teste completo de memória e substituir pentes defeituosos."
+    },
+    {
+      "titulo": "Problema 327 - Um pente de RAM está defeituoso?",
+      "imagem": "/imagens/ram-defeito.jpg",
+      "descricao": "Software: MemTest86+.<br>Solução: Testar cada pente separadamente e substituir se falhar."
+    },
+    {
+      "titulo": "Problema 328 - A RAM é estável após overclock?",
+      "imagem": "/imagens/ram-overclock.jpg",
+      "descricao": "Software: HCI MemTest.<br>Solução: Rodar testes de estabilidade e ajustar frequência/timing."
+    },
+    {
+      "titulo": "Problema 329 - O Windows detecta erros na RAM?",
+      "imagem": "/imagens/windows-ram.jpg",
+      "descricao": "Software: Windows Memory Diagnostic.<br>Solução: Executar diagnóstico e corrigir problemas detectados."
+    },
+    {
+      "titulo": "Problema 330 - A RAM suporta uso intenso por horas?",
+      "imagem": "/imagens/ram-estresse.jpg",
+      "descricao": "Software: Karhu RAM Test.<br>Solução: Testar resistência da RAM sob uso prolongado."
+    },
+    {
+      "titulo": "Problema 331 - Qual dispositivo está consumindo mais banda de internet?",
+      "imagem": "/imagens/consumo-banda.jpg",
+      "descricao": "Software: GlassWire.<br>Solução: Monitorar tráfego e identificar consumidor de banda."
+    },
+    {
+      "titulo": "Problema 332 - Quais computadores estão conectados à rede local?",
+      "imagem": "/imagens/rede-local.jpg",
+      "descricao": "Software: Advanced IP Scanner.<br>Solução: Verificar dispositivos ativos na LAN."
+    },
+    {
+      "titulo": "Problema 333 - Um dispositivo suspeito está conectado à rede?",
+      "imagem": "/imagens/dispositivo-suspeito.jpg",
+      "descricao": "Software: Angry IP Scanner.<br>Solução: Identificar IP e bloquear se necessário."
+    },
+    {
+      "titulo": "Problema 334 - Existe perda de pacotes na rede?",
+      "imagem": "/imagens/perda-pacotes-rede.jpg",
+      "descricao": "Software: PingPlotter.<br>Solução: Testar rede e identificar gargalos ou falhas."
+    },
+    {
+      "titulo": "Problema 335 - A rede está sendo monitorada por alguém?",
+      "imagem": "/imagens/wireshark.jpg",
+      "descricao": "Software: Wireshark.<br>Solução: Capturar tráfego suspeito e identificar monitoramento."
+    },
+    {
+      "titulo": "Problema 336 - Quais portas estão abertas em um servidor?",
+      "imagem": "/imagens/nmap.jpg",
+      "descricao": "Software: Nmap.<br>Solução: Escanear portas e verificar vulnerabilidades."
+    },
+    {
+      "titulo": "Problema 337 - Qual é a velocidade máxima da rede local?",
+      "imagem": "/imagens/iperf.jpg",
+      "descricao": "Software: iperf.<br>Solução: Testar largura de banda e comparar com capacidade teórica."
+    },
+    {
+      "titulo": "Problema 338 - O computador possui malware ativo?",
+      "imagem": "/imagens/malware.jpg",
+      "descricao": "Software: Malwarebytes.<br>Solução: Escanear e remover softwares maliciosos."
+    },
+    {
+      "titulo": "Problema 339 - Existe adware instalado no navegador?",
+      "imagem": "/imagens/adwcleaner.jpg",
+      "descricao": "Software: AdwCleaner.<br>Solução: Remover adware e extensões suspeitas."
+    },
+    {
+      "titulo": "Problema 340 - O sistema possui trojans escondidos?",
+      "imagem": "/imagens/hitmanpro.jpg",
+      "descricao": "Software: HitmanPro.<br>Solução: Executar scan completo e remover ameaças."
+    },
+    {
+      "titulo": "Problema 341 - Um vírus está bloqueando o antivírus?",
+      "imagem": "/imagens/rkill.jpg",
+      "descricao": "Software: RKill.<br>Solução: Remover malware e reativar antivírus."
+    },
+    {
+      "titulo": "Problema 342 - O computador possui spyware?",
+      "imagem": "/imagens/spybot.jpg",
+      "descricao": "Software: Spybot Search & Destroy.<br>Solução: Escanear e remover spywares."
+    },
+    {
+      "titulo": "Problema 343 - O computador possui muitos arquivos temporários?",
+      "imagem": "/imagens/ccleaner.jpg",
+      "descricao": "Software: CCleaner.<br>Solução: Limpar arquivos temporários para liberar espaço."
+    },
+    {
+      "titulo": "Problema 344 - Existem arquivos inúteis ocupando espaço?",
+      "imagem": "/imagens/bleachbit.jpg",
+      "descricao": "Software: BleachBit.<br>Solução: Remover arquivos inúteis e otimizar disco."
+    },
+    {
+      "titulo": "Problema 345 - Quais programas iniciam com o Windows?",
+      "imagem": "/imagens/autoruns.jpg",
+      "descricao": "Software: Autoruns.<br>Solução: Desativar programas desnecessários na inicialização."
+    },
+    {
+      "titulo": "Problema 346 - Qual processo está usando muita CPU?",
+      "imagem": "/imagens/process-explorer.jpg",
+      "descricao": "Software: Process Explorer.<br>Solução: Identificar processo e otimizar uso de CPU."
+    },
+    {
+      "titulo": "Problema 347 - Qual programa está acessando arquivos constantemente?",
+      "imagem": "/imagens/process-monitor.jpg",
+      "descricao": "Software: Process Monitor.<br>Solução: Monitorar e ajustar processos que acessam disco constantemente."
+    },
+    {
+      "titulo": "Problema 348 - É possível recuperar arquivos deletados?",
+      "imagem": "/imagens/recuva.jpg",
+      "descricao": "Software: Recuva.<br>Solução: Escanear disco e restaurar arquivos deletados."
+    },
+    {
+      "titulo": "Problema 349 - Um disco inteiro pode ser clonado?",
+      "imagem": "/imagens/clonezilla.jpg",
+      "descricao": "Software: Clonezilla.<br>Solução: Criar imagem completa do disco para backup ou migração."
+    },
+    {
+      "titulo": "Problema 350 - É possível restaurar uma imagem do sistema?",
+      "imagem": "/imagens/macrium.jpg",
+      "descricao": "Software: Macrium Reflect.<br>Solução: Restaurar sistema a partir de imagem previamente criada."
+    }
+  ]
+}
