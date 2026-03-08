@@ -59,7 +59,8 @@ function mostrarSlide() {
 
     titulo.textContent = slide.titulo;
     imagem.src = slide.imagem;
-    descricao.textContent = slide.descricao;
+    // 🔹 Troquei textContent por innerHTML para interpretar <br> do JSON
+    descricao.innerHTML = slide.descricao;
 }
 
 // Próximo
