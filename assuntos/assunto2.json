@@ -3,7 +3,7 @@
   "slides": [
     {
       "titulo": "Problema 51 - Muito lixo no sistema",
-      "imagem": "imagens/1-1.webp",
+      "imagem": "imagens/1-51.jpg",
       "descricao": "O sistema está cheio de arquivos temporários e lixo acumulado.<br> Pode deixar o PC lento e travando.<br><br>Testes possíveis:<br>Usar CCleaner para limpar arquivos desnecessários.<br>Verificar pastas temporárias.<br>Limpar cache de programas."
     },
     {
@@ -253,6 +253,7 @@
     }
   ]
 }
+
 
 
 
