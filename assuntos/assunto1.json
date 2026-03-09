@@ -3,92 +3,92 @@
   "slides": [
     {
       "titulo": "Problema 1 - Computador não liga",
-      "imagem": "/imagens/pc-nao-liga.jpg",
+      "imagem": "/imagens/1-1.webp",
       "descricao": "O cliente aperta o botão de ligar e nada acontece.<br> Nenhum LED acende e nenhuma ventoinha gira.<br> Em alguns casos o computador funcionava normalmente no dia anterior.<br> Também pode ocorrer após queda de energia ou mudança de tomada.<br> Isso pode gerar preocupação imediata para o usuário.<br><br>Testes possíveis:<br>Verificar cabo de energia e filtro de linha.<br>Testar outra tomada.<br>Verificar se a fonte está ligada na chave traseira.<br>Testar fonte de alimentação.<br>Verificar botão power do gabinete.<br>Checar conexão do cabo POWER SW na placa-mãe."
     },
     {
       "titulo": "Problema 2 - Computador liga mas não dá vídeo",
-      "imagem": "/imagens/sem-video.jpg",
+      "imagem": "/imagens/1-2.jpg",
       "descricao": "O computador liga, as ventoinhas giram, mas não aparece imagem no monitor.<br> Em alguns casos o monitor mostra 'sem sinal'.<br> O problema pode surgir após limpeza do computador ou transporte.<br> Também pode acontecer após instalação de nova memória ou placa de vídeo.<br><br>Testes possíveis:<br>Verificar cabo HDMI ou VGA.<br>Testar outro monitor.<br>Remover e recolocar memória RAM.<br>Testar vídeo integrado.<br>Limpar contatos da memória.<br>Resetar BIOS."
     },
     {
       "titulo": "Problema 3 - Computador reiniciando sozinho",
-      "imagem": "/imagens/reiniciando.jpg",
+      "imagem": "/imagens/1-3.jpg",
       "descricao": "O computador reinicia inesperadamente durante uso.<br> Pode acontecer durante jogos, navegação ou ao abrir programas pesados.<br> Em alguns casos ocorre logo após iniciar o Windows.<br> Isso pode indicar problema de hardware, temperatura ou energia.<br><br>Testes possíveis:<br>Verificar temperaturas da CPU.<br>Testar fonte de alimentação.<br>Executar diagnóstico de memória.<br>Verificar drivers instalados.<br>Analisar logs do sistema.<br>Testar estabilidade com stress test."
     },
     {
       "titulo": "Problema 4 - Computador muito lento",
-      "imagem": "/imagens/pc-lento.jpg",
+      "imagem": "/imagens/1-4.jpg",
       "descricao": "O cliente relata que o computador demora para abrir programas.<br> O sistema pode levar vários minutos para iniciar.<br> Navegador trava ou demora para responder.<br> Muitas vezes o problema aparece após meses ou anos de uso.<br><br>Testes possíveis:<br>Verificar uso de CPU e memória.<br>Checar programas iniciando com Windows.<br>Executar antivírus.<br>Verificar saúde do HD ou SSD.<br>Testar espaço em disco.<br>Desinstalar programas desnecessários."
     },
     {
       "titulo": "Problema 5 - Tela azul (Blue Screen)",
-      "imagem": "/imagens/tela-azul.jpg",
+      "imagem": "/imagens/1-5.avif",
       "descricao": "O computador apresenta uma tela azul com mensagem de erro e reinicia.<br> Isso pode acontecer durante uso normal ou ao iniciar o sistema.<br> O cliente geralmente relata que começou a acontecer de repente.<br> Em alguns casos ocorre após atualização de driver.<br><br>Testes possíveis:<br>Analisar código de erro da tela azul.<br>Testar memória RAM.<br>Atualizar drivers.<br>Verificar integridade do Windows.<br>Checar disco rígido.<br>Remover hardware recém instalado."
     },
     {
       "titulo": "Problema 6 - Computador desligando sozinho",
-      "imagem": "/imagens/desligando.jpg",
+      "imagem": "/imagens/1-6.jpg",
       "descricao": "O computador desliga sem aviso durante uso.<br> Pode acontecer ao abrir programas pesados ou jogos.<br> O usuário relata que o problema começou recentemente.<br> Em alguns casos o gabinete está muito quente.<br><br>Testes possíveis:<br>Monitorar temperatura da CPU.<br>Limpar poeira do cooler.<br>Trocar pasta térmica.<br>Verificar fonte de alimentação.<br>Testar fluxo de ar do gabinete.<br>Rodar teste de estresse."
     },
     {
       "titulo": "Problema 7 - Internet conectada mas sem acesso",
-      "imagem": "/imagens/internet-sem-acesso.jpg",
+      "imagem": "/imagens/1-7.jpg",
       "descricao": "O computador mostra conexão com a rede, mas sites não carregam.<br> O cliente relata que outros dispositivos funcionam normalmente.<br> Pode acontecer após atualização do sistema ou alteração de rede.<br><br>Testes possíveis:<br>Reiniciar modem e roteador.<br>Testar comando ping.<br>Renovar IP.<br>Verificar DNS.<br>Atualizar driver de rede.<br>Testar cabo de rede."
     },
     {
       "titulo": "Problema 8 - HD fazendo barulho",
-      "imagem": "/imagens/hd-barulho.jpg",
+      "imagem": "/imagens/1-8.png",
       "descricao": "O cliente relata estalos ou barulho vindo do computador.<br> O sistema pode travar ou demorar para carregar arquivos.<br> Em alguns casos o problema surge após queda ou impacto.<br><br>Testes possíveis:<br>Verificar saúde do HD com software.<br>Fazer backup imediato.<br>Checar cabos SATA.<br>Testar outro disco.<br>Monitorar SMART do disco."
     },
     {
       "titulo": "Problema 9 - USB não reconhece dispositivos",
-      "imagem": "/imagens/usb-nao-reconhece.jpg",
+      "imagem": "/imagens/1-9.png",
       "descricao": "Pendrives ou periféricos não funcionam ao conectar.<br> O sistema pode mostrar erro de dispositivo desconhecido.<br> O problema pode surgir após atualização ou falha de driver.<br><br>Testes possíveis:<br>Testar outras portas USB.<br>Atualizar driver USB.<br>Testar dispositivo em outro computador.<br>Verificar energia da porta.<br>Reinstalar controladores USB."
     },
     {
       "titulo": "Problema 10 - Teclado ou mouse não funcionam",
-      "imagem": "/imagens/teclado-mouse.jpg",
+      "imagem": "/imagens/1-10.jpg",
       "descricao": "O usuário liga o computador e percebe que teclado ou mouse não respondem.<br> Pode ocorrer em dispositivos USB ou sem fio.<br> Às vezes funciona na BIOS mas não no Windows.<br><br>Testes possíveis:<br>Trocar porta USB.<br>Testar outro teclado.<br>Verificar pilhas de dispositivos sem fio.<br>Atualizar drivers.<br>Reiniciar sistema."
     },
     {
       "titulo": "Problema 11 - Windows não inicia",
-      "imagem": "/imagens/windows-nao-inicia.jpg",
+      "imagem": "/imagens/1-11.jpg",
       "descricao": "O computador liga mas não entra no Windows.<br> Pode aparecer mensagem de erro ou tela preta.<br> O cliente diz que o problema começou após desligamento inesperado.<br><br>Testes possíveis:<br>Usar reparo automático.<br>Entrar em modo de segurança.<br>Verificar integridade do disco.<br>Executar comando SFC.<br>Restaurar sistema."
     },
     {
       "titulo": "Problema 12 - Tela preta após login",
-      "imagem": "/imagens/tela-preta.jpg",
+      "imagem": "/imagens/1-12.jpeg",
       "descricao": "Após digitar senha do Windows a tela fica preta.<br> O cursor pode aparecer mas nada abre.<br> O cliente fica preso nessa tela.<br><br>Testes possíveis:<br>Abrir gerenciador de tarefas.<br>Reiniciar explorer.exe.<br>Entrar em modo de segurança.<br>Verificar driver de vídeo.<br>Restaurar sistema."
     },
     {
       "titulo": "Problema 13 - Programas fechando sozinhos",
-      "imagem": "/imagens/programas-fechando.jpg",
+      "imagem": "/imagens/1-13.jpeg",
       "descricao": "Aplicativos abrem mas fecham inesperadamente.<br> Pode acontecer com vários programas diferentes.<br> O usuário suspeita de vírus ou erro do sistema.<br><br>Testes possíveis:<br>Executar antivírus.<br>Atualizar sistema.<br>Verificar memória RAM.<br>Reinstalar programas.<br>Checar logs de erro."
     },
     {
       "titulo": "Problema 14 - WiFi desconectando",
-      "imagem": "/imagens/wifi-caindo.jpg",
+      "imagem": "/imagens/1-14.jpg",
       "descricao": "A conexão WiFi cai frequentemente.<br> O usuário precisa reconectar várias vezes.<br> O problema pode ocorrer apenas em um computador.<br><br>Testes possíveis:<br>Atualizar driver WiFi.<br>Aproximar do roteador.<br>Testar outra rede.<br>Verificar interferência.<br>Reiniciar adaptador."
     },
     {
       "titulo": "Problema 15 - Ventoinha muito barulhenta",
-      "imagem": "/imagens/cooler-barulho.jpg",
+      "imagem": "/imagens/1-15.jpg",
       "descricao": "O computador faz barulho constante vindo das ventoinhas.<br> O cliente percebe aumento do ruído durante uso pesado.<br> Pode indicar acúmulo de poeira.<br><br>Testes possíveis:<br>Limpar cooler.<br>Verificar temperatura.<br>Checar pasta térmica.<br>Testar controle de fan.<br>Verificar ventilação do gabinete."
     },
     {
       "titulo": "Problema 16 - Disco cheio constantemente",
-      "imagem": "/imagens/disco-cheio.jpg",
+      "imagem": "/imagens/1-16.jpg",
       "descricao": "O usuário recebe aviso de pouco espaço em disco.<br> Mesmo apagando arquivos o espaço continua desaparecendo.<br> Isso pode afetar desempenho.<br><br>Testes possíveis:<br>Verificar pasta downloads.<br>Limpar arquivos temporários.<br>Checar pontos de restauração.<br>Analisar uso de espaço.<br>Desinstalar programas."
     },
     {
       "titulo": "Problema 17 - Atualização do Windows travada",
-      "imagem": "/imagens/update-travado.jpg",
+      "imagem": "/imagens/1-17.png",
       "descricao": "O Windows fica preso atualizando por muito tempo.<br> O computador pode reiniciar várias vezes.<br> O cliente não consegue usar o sistema.<br><br>Testes possíveis:<br>Reiniciar serviço de update.<br>Limpar cache de atualização.<br>Executar solucionador de problemas.<br>Verificar espaço em disco."
     },
     {
       "titulo": "Problema 18 - Áudio não funciona",
-      "imagem": "/imagens/sem-audio.jpg",
+      "imagem": "/imagens/1-18.jpg",
       "descricao": "O computador não reproduz som.<br> O ícone pode indicar erro ou dispositivo desconectado.<br> O problema pode surgir após atualização.<br><br>Testes possíveis:<br>Verificar dispositivo padrão.<br>Atualizar driver de áudio.<br>Testar outro alto-falante.<br>Checar cabos."
     },
     {
@@ -253,3 +253,4 @@
     }
   ]
 }
+
