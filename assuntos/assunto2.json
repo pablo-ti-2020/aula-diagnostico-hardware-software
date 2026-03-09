@@ -53,7 +53,7 @@
     },
     {
       "titulo": "Problema 61 - RAM não detectada",
-      "imagem": "imagens/1-61.jepg",
+      "imagem": "imagens/1-61.jpeg",
       "descricao": "O computador não reconhece parte ou toda a memória RAM.<br>Sistema pode não iniciar.<br><br>Testes possíveis:<br>Limpar slot da RAM.<br>Recolocar os módulos.<br>Testar módulos individualmente."
     },
     {
@@ -253,6 +253,7 @@
     }
   ]
 }
+
 
 
 
