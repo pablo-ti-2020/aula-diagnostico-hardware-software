@@ -133,7 +133,7 @@
     },
     {
       "titulo": "Problema 27 - SSD muito lento",
-      "imagem": "imagens/1-20.webp",
+      "imagem": "imagens/1-27.webp",
       "descricao": "O SSD não apresenta desempenho esperado.<br><br>Testes possíveis:<br>Verificar modo AHCI.<br>Atualizar firmware.<br>Testar velocidade."
     },
     {
@@ -253,6 +253,7 @@
     }
   ]
 }
+
 
 
 
