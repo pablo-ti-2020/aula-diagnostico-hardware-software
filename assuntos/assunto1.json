@@ -93,166 +93,167 @@
     },
     {
       "titulo": "Problema 19 - Computador travando frequentemente",
-      "imagem": "imagens/travando.jpg",
+      "imagem": "imagens/1-19.jpg",
       "descricao": "O sistema congela e precisa ser reiniciado.<br> O cliente relata que o mouse para de responder.<br> Pode acontecer durante tarefas simples.<br><br>Testes possíveis:<br>Testar memória RAM.<br>Verificar uso de CPU.<br>Checar temperatura.<br>Atualizar drivers."
     },
     {
       "titulo": "Problema 20 - Aplicativos demorando para abrir",
-      "imagem": "imagens/apps-lentos.jpg",
+      "imagem": "imagens/1-20.jpg",
       "descricao": "Programas demoram muito para iniciar.<br> O cliente percebe atraso mesmo em tarefas simples.<br> Pode indicar disco lento ou sobrecarga do sistema.<br><br>Testes possíveis:<br>Verificar tipo de disco.<br>Analisar uso de recursos.<br>Desativar programas de inicialização."
     },
     {
       "titulo": "Problema 21 - Impressora não imprime",
-      "imagem": "imagens/impressora.jpg",
+      "imagem": "imagens/1-21.jpg",
       "descricao": "O computador reconhece a impressora mas não imprime.<br> Os documentos ficam na fila de impressão.<br><br>Testes possíveis:<br>Reiniciar spooler.<br>Reinstalar driver.<br>Testar cabo USB."
     },
     {
       "titulo": "Problema 22 - Bluetooth não conecta",
-      "imagem": "imagens/bluetooth.jpg",
+      "imagem": "imagens/1-22.jpg",
       "descricao": "Dispositivos Bluetooth não conectam ao computador.<br> O sistema pode não encontrar dispositivos.<br><br>Testes possíveis:<br>Ativar Bluetooth.<br>Atualizar driver.<br>Testar outro dispositivo."
     },
     {
       "titulo": "Problema 23 - Arquivos corrompidos",
-      "imagem": "imagens/arquivo-corrompido.jpg",
+      "imagem": "imagens/1-23.jpg",
       "descricao": "Arquivos não abrem ou apresentam erro.<br> Pode ocorrer após queda de energia.<br><br>Testes possíveis:<br>Verificar disco.<br>Executar SFC.<br>Restaurar backup."
     },
     {
       "titulo": "Problema 24 - Sistema muito quente",
-      "imagem": "imagens/temperatura.jpg",
+      "imagem": "imagens/1-24.webp",
       "descricao": "O gabinete está quente ao toque.<br> O computador pode ficar lento ou desligar.<br><br>Testes possíveis:<br>Monitorar temperatura.<br>Limpar poeira.<br>Melhorar ventilação."
     },
     {
       "titulo": "Problema 25 - BIOS não reconhece HD",
-      "imagem": "imagens/bios-hd.jpg",
+      "imagem": "imagens/1-25.jpg",
       "descricao": "O disco não aparece na BIOS.<br> O sistema não consegue iniciar.<br><br>Testes possíveis:<br>Verificar cabos SATA.<br>Testar outro cabo.<br>Testar outro HD."
     },
     {
       "titulo": "Problema 26 - Erro de memória",
-      "imagem": "imagens/memoria.jpg",
+      "imagem": "imagens/1-26.jpeg",
       "descricao": "O sistema apresenta erros relacionados à memória.<br><br>Testes possíveis:<br>Executar diagnóstico de memória.<br>Testar módulos separadamente."
     },
     {
       "titulo": "Problema 27 - SSD muito lento",
-      "imagem": "imagens/ssd-lento.jpg",
+      "imagem": "imagens/1-20.webp",
       "descricao": "O SSD não apresenta desempenho esperado.<br><br>Testes possíveis:<br>Verificar modo AHCI.<br>Atualizar firmware.<br>Testar velocidade."
     },
     {
       "titulo": "Problema 28 - Cursor travando",
-      "imagem": "imagens/cursor.jpg",
+      "imagem": "imagens/1-28.jpg",
       "descricao": "O ponteiro do mouse trava ou se move com atraso.<br><br>Testes possíveis:<br>Trocar mouse.<br>Atualizar driver."
     },
     {
       "titulo": "Problema 29 - Sistema não reconhece GPU",
-      "imagem": "imagens/gpu.jpg",
+      "imagem": "imagens/1-29.webp",
       "descricao": "Placa de vídeo não aparece no sistema.<br><br>Testes possíveis:<br>Reinstalar driver.<br>Testar slot PCIe."
     },
     {
       "titulo": "Problema 30 - Erro ao instalar programa",
-      "imagem": "imagens/instalacao.jpg",
+      "imagem": "imagens/1-30.jpeg",
       "descricao": "Programas não instalam corretamente.<br><br>Testes possíveis:<br>Executar como administrador.<br>Verificar espaço em disco."
     },
     {
       "titulo": "Problema 31 - Lentidão após atualização",
-      "imagem": "imagens/update-lento.jpg",
+      "imagem": "imagens/1-31.webp",
       "descricao": "Após atualização o sistema ficou lento.<br><br>Testes possíveis:<br>Atualizar drivers.<br>Verificar processos."
     },
     {
       "titulo": "Problema 32 - Tela piscando",
-      "imagem": "imagens/tela-piscando.jpg",
+      "imagem": "imagens/1-32.jpg",
       "descricao": "O monitor pisca ou perde sinal.<br><br>Testes possíveis:<br>Trocar cabo.<br>Atualizar driver de vídeo."
     },
     {
       "titulo": "Problema 33 - Notebook não carrega bateria",
-      "imagem": "imagens/bateria.jpg",
+      "imagem": "imagens/1-33.jpeg",
       "descricao": "Bateria não carrega mesmo conectado.<br><br>Testes possíveis:<br>Testar carregador.<br>Verificar bateria."
     },
     {
       "titulo": "Problema 34 - Arquivos sumindo",
-      "imagem": "imagens/arquivos.jpg",
+      "imagem": "imagens/1-34.jpg",
       "descricao": "Arquivos desaparecem do sistema.<br><br>Testes possíveis:<br>Verificar vírus.<br>Checar lixeira."
     },
     {
       "titulo": "Problema 35 - Sistema congelando ao abrir jogos",
-      "imagem": "imagens/jogos.jpg",
+      "imagem": "imagens/1-35.jpg",
       "descricao": "Jogos travam ou congelam o sistema.<br><br>Testes possíveis:<br>Atualizar driver GPU.<br>Monitorar temperatura."
     },
     {
       "titulo": "Problema 36 - Driver incompatível",
-      "imagem": "imagens/driver.jpg",
+      "imagem": "imagens/1-36.webp",
       "descricao": "Hardware apresenta erro de driver.<br><br>Testes possíveis:<br>Reinstalar driver.<br>Baixar versão correta."
     },
     {
       "titulo": "Problema 37 - Rede lenta",
-      "imagem": "imagens/rede-lenta.jpg",
+      "imagem": "imagens/1-37.jpeg",
       "descricao": "Velocidade de internet abaixo do esperado.<br><br>Testes possíveis:<br>Testar cabo.<br>Testar outro dispositivo."
     },
     {
       "titulo": "Problema 38 - Aplicativo usando muita memória",
-      "imagem": "imagens/memoria-alta.jpg",
+      "imagem": "imagens/1-38.jpg",
       "descricao": "Um programa consome muitos recursos.<br><br>Testes possíveis:<br>Finalizar processo.<br>Atualizar programa."
     },
     {
       "titulo": "Problema 39 - Disco sempre em 100%",
-      "imagem": "imagens/disco100.jpg",
+      "imagem": "imagens/1-39.jpg",
       "descricao": "Uso do disco fica sempre em 100%.<br><br>Testes possíveis:<br>Desativar serviços.<br>Verificar malware."
     },
     {
       "titulo": "Problema 40 - Monitor sem sinal",
-      "imagem": "imagens/monitor.jpg",
+      "imagem": "imagens/1-40.jpg",
       "descricao": "Monitor não recebe sinal de vídeo.<br><br>Testes possíveis:<br>Verificar cabos.<br>Testar GPU."
     },
     {
       "titulo": "Problema 41 - PC demora para desligar",
-      "imagem": "imagens/desligar.jpg",
+      "imagem": "imagens/1-41.jpeg",
       "descricao": "O sistema leva muito tempo para desligar.<br><br>Testes possíveis:<br>Verificar programas ativos.<br>Atualizar sistema."
     },
     {
       "titulo": "Problema 42 - Sistema pedindo reparo automático",
-      "imagem": "imagens/reparo.jpg",
+      "imagem": "imagens/1-42.jpg",
       "descricao": "Windows entra sempre em reparo automático.<br><br>Testes possíveis:<br>Executar comandos de reparo."
     },
     {
       "titulo": "Problema 43 - Programas não respondem",
-      "imagem": "imagens/nao-responde.jpg",
+      "imagem": "imagens/1-43.jpg",
       "descricao": "Aplicativos travam frequentemente.<br><br>Testes possíveis:<br>Atualizar software.<br>Verificar memória."
     },
     {
       "titulo": "Problema 44 - Erro de permissão",
-      "imagem": "imagens/permissao.jpg",
+      "imagem": "imagens/1-44.png",
       "descricao": "Sistema bloqueia acesso a arquivos.<br><br>Testes possíveis:<br>Executar como administrador."
     },
     {
       "titulo": "Problema 45 - PC não reconhece pen drive",
-      "imagem": "imagens/pendrive.jpg",
+      "imagem": "imagens/1-45.jpg",
       "descricao": "Pendrive não aparece no sistema.<br><br>Testes possíveis:<br>Testar outra porta.<br>Verificar gerenciamento de disco."
     },
     {
       "titulo": "Problema 46 - Notebook esquentando muito",
-      "imagem": "imagens/notebook-quente.jpg",
+      "imagem": "imagens/1-46.jpg",
       "descricao": "Notebook esquenta rapidamente.<br><br>Testes possíveis:<br>Limpeza interna.<br>Base refrigerada."
     },
     {
       "titulo": "Problema 47 - Falha ao copiar arquivos",
-      "imagem": "imagens/copiar.jpg",
+      "imagem": "imagens/1-47.png",
       "descricao": "Erro ao transferir arquivos.<br><br>Testes possíveis:<br>Verificar disco.<br>Testar outro cabo."
     },
     {
       "titulo": "Problema 48 - Sistema lento após instalar programa",
-      "imagem": "imagens/programa-lento.jpg",
+      "imagem": "imagens/1-48.jpg",
       "descricao": "Após instalar software o PC ficou lento.<br><br>Testes possíveis:<br>Desinstalar programa.<br>Verificar processos."
     },
     {
       "titulo": "Problema 49 - PC não reconhece câmera",
-      "imagem": "imagens/webcam.jpg",
+      "imagem": "imagens/1-49.jpg",
       "descricao": "Webcam não funciona em aplicativos.<br><br>Testes possíveis:<br>Verificar driver.<br>Testar outro programa."
     },
     {
       "titulo": "Problema 50 - Erro desconhecido no sistema",
-      "imagem": "imagens/erro.jpg",
+      "imagem": "imagens/1-50.png",
       "descricao": "O cliente relata mensagens de erro sem explicação clara.<br> O sistema pode apresentar comportamento estranho ou instável.<br> Muitas vezes o problema aparece após atualizações ou instalação de programas.<br><br>Testes possíveis:<br>Analisar logs do sistema.<br>Executar antivírus.<br>Verificar integridade do Windows.<br>Testar hardware.<br>Atualizar drivers."
     }
   ]
 }
+
 
 
 
