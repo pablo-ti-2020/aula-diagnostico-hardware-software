@@ -3,254 +3,255 @@
   "slides": [
     {
       "titulo": "Problema 51 - Muito lixo no sistema",
-      "imagem": "imagens/51.jpg",
+      "imagem": "imagens/1-51.jpg",
       "descricao": "O sistema está cheio de arquivos temporários e lixo acumulado.<br> Pode deixar o PC lento e travando.<br><br>Testes possíveis:<br>Usar CCleaner para limpar arquivos desnecessários.<br>Verificar pastas temporárias.<br>Limpar cache de programas."
     },
     {
       "titulo": "Problema 52 - Cache do navegador enorme",
-      "imagem": "imagens/52.png",
+      "imagem": "imagens/1-52.png",
       "descricao": "O navegador demora para carregar páginas.<br>O cache acumulado ocupa muito espaço.<br><br>Testes possíveis:<br>Limpar cache do navegador.<br>Verificar histórico.<br>Reiniciar navegador."
     },
     {
       "titulo": "Problema 53 - Registro quebrado",
-      "imagem": "imagens/53.jpg",
+      "imagem": "imagens/1-53.jpg",
       "descricao": "O Windows apresenta erros ou lentidão.<br>Alguns programas podem não abrir.<br><br>Testes possíveis:<br>Usar CCleaner Registry para corrigir entradas.<br>Fazer backup do registro antes.<br>Reiniciar sistema."
     },
     {
       "titulo": "Problema 54 - Pasta temp gigante",
-      "imagem": "imagens/54.webp",
+      "imagem": "imagens/1-54.webp",
       "descricao": "A pasta %temp% contém muitos arquivos.<br>O sistema fica mais lento.<br><br>Testes possíveis:<br>Limpar a pasta %temp% manualmente.<br>Usar ferramentas de limpeza.<br>Reiniciar computador."
     },
     {
       "titulo": "Problema 55 - Logs gigantes",
-      "imagem": "imagens/55.jpeg",
+      "imagem": "imagens/1-55.jpeg",
       "descricao": "Arquivos de log ocupam espaço em disco.<br>Pode afetar desempenho.<br><br>Testes possíveis:<br>Executar limpeza de disco.<br>Excluir logs antigos.<br>Verificar software que gera logs excessivos."
     },
     {
       "titulo": "Problema 56 - Windows irreparável",
-      "imagem": "imagens/56.jpeg",
+      "imagem": "imagens/1-56.jpeg",
       "descricao": "O sistema não inicia ou apresenta muitos erros.<br>Reparos não funcionam.<br><br>Testes possíveis:<br>Formatar o computador.<br>Instalar Windows limpo.<br>Atualizar drivers após instalação."
     },
     {
       "titulo": "Problema 57 - Muitos vírus",
-      "imagem": "imagens/57.webp",
+      "imagem": "imagens/1-57.webp",
       "descricao": "O sistema está infectado e lento.<br>Programas não abrem corretamente.<br><br>Testes possíveis:<br>Formatar o PC.<br>Instalar antivírus atualizado.<br>Evitar softwares suspeitos."
     },
     {
       "titulo": "Problema 58 - Sistema antigo",
-      "imagem": "imagens/58.jpeg",
+      "imagem": "imagens/1-58.jpeg",
       "descricao": "O Windows não suporta atualizações recentes.<br>Programas travam.<br><br>Testes possíveis:<br>Formatar e instalar versão atual do Windows.<br>Atualizar drivers.<br>Verificar compatibilidade de software."
     },
     {
       "titulo": "Problema 59 - Driver bagunçado",
-      "imagem": "imagens/59.jpg",
+      "imagem": "imagens/1-59.jpg",
       "descricao": "Drivers corrompidos causam erros e travamentos.<br>Dispositivos não funcionam corretamente.<br><br>Testes possíveis:<br>Instalar drivers limpos.<br>Desinstalar drivers antigos.<br>Reiniciar o sistema."
     },
     {
       "titulo": "Problema 60 - Update impossível",
-      "imagem": "imagens/60.webp",
+      "imagem": "imagens/1-60.webp",
       "descricao": "O Windows não consegue instalar atualizações.<br>Erros contínuos no update.<br><br>Testes possíveis:<br>Formatar e reinstalar Windows.<br>Verificar espaço em disco.<br>Atualizar drivers manualmente."
     },
     {
       "titulo": "Problema 61 - RAM não detectada",
-      "imagem": "imagens/61.jepg",
+      "imagem": "imagens/1-61.jepg",
       "descricao": "O computador não reconhece parte ou toda a memória RAM.<br>Sistema pode não iniciar.<br><br>Testes possíveis:<br>Limpar slot da RAM.<br>Recolocar os módulos.<br>Testar módulos individualmente."
     },
     {
       "titulo": "Problema 62 - SSD não detectado",
-      "imagem": "imagens/62.jpg",
+      "imagem": "imagens/1-62.jpg",
       "descricao": "O disco SSD não aparece na BIOS ou no sistema.<br>Não é possível iniciar o Windows.<br><br>Testes possíveis:<br>Verificar porta SATA.<br>Testar outro cabo SATA.<br>Testar SSD em outro PC."
     },
     {
       "titulo": "Problema 63 - Clock errado",
-      "imagem": "imagens/63.jpeg",
+      "imagem": "imagens/1-63.jpeg",
       "descricao": "A hora e data estão incorretas.<br>Sistema pode apresentar erros em aplicativos.<br><br>Testes possíveis:<br>Resetar BIOS para padrões.<br>Verificar bateria da placa-mãe.<br>Ajustar manualmente se necessário."
     },
     {
       "titulo": "Problema 64 - Boot errado",
-      "imagem": "imagens/64.jpg",
+      "imagem": "imagens/1-64.jpg",
       "descricao": "O sistema tenta iniciar pelo dispositivo errado.<br>Windows não inicia.<br><br>Testes possíveis:<br>Ajustar prioridade de boot na BIOS.<br>Verificar discos conectados.<br>Salvar e reiniciar."
     },
     {
       "titulo": "Problema 65 - BIOS desatualizada",
-      "imagem": "imagens/65.jpeg",
+      "imagem": "imagens/1-65.jpeg",
       "descricao": "Versão antiga da BIOS pode causar incompatibilidade.<br>Alguns dispositivos não funcionam.<br><br>Testes possíveis:<br>Atualizar BIOS.<br>Seguir guia do fabricante.<br>Verificar compatibilidade antes da atualização."
     },
     {
       "titulo": "Problema 66 - Teclado não funciona",
-      "imagem": "imagens/66.jpg",
+      "imagem": "imagens/1-66.jpg",
       "descricao": "O teclado não responde no Windows.<br>Pode ser USB ou sem fio.<br><br>Testes possíveis:<br>Verificar driver do teclado.<br>Trocar porta USB.<br>Testar outro teclado."
     },
     {
       "titulo": "Problema 67 - Mouse travando",
-      "imagem": "imagens/67.jpg",
+      "imagem": "imagens/1-67.jpg",
       "descricao": "O ponteiro do mouse trava ou se move irregularmente.<br><br>Testes possíveis:<br>Trocar porta USB.<br>Atualizar driver do mouse.<br>Testar outro mouse."
     },
     {
       "titulo": "Problema 68 - Webcam não aparece",
-      "imagem": "imagens/68.png",
+      "imagem": "imagens/1-68.png",
       "descricao": "A câmera não é detectada pelo sistema ou aplicativos.<br><br>Testes possíveis:<br>Atualizar driver da webcam.<br>Testar outro programa de captura.<br>Verificar conexão."
     },
     {
       "titulo": "Problema 69 - Microfone mudo",
-      "imagem": "imagens/69.webp",
+      "imagem": "imagens/1-69.webp",
       "descricao": "O microfone não capta som.<br>Configurações podem estar incorretas.<br><br>Testes possíveis:<br>Verificar configurações de som.<br>Testar outro microfone.<br>Atualizar driver de áudio."
     },
     {
       "titulo": "Problema 70 - Headset chiando",
-      "imagem": "imagens/70.jpg",
+      "imagem": "imagens/1-70.jpg",
       "descricao": "O som do headset apresenta chiados ou falhas.<br><br>Testes possíveis:<br>Atualizar driver de áudio.<br>Testar outro headset.<br>Verificar cabos e conexões."
     },
     {
       "titulo": "Problema 71 - FPS baixo em jogos",
-      "imagem": "imagens/71.jpg",
+      "imagem": "imagens/1-71.jpg",
       "descricao": "Jogos rodam com baixo desempenho.<br><br>Testes possíveis:<br>Verificar GPU.<br>Reduzir configurações gráficas.<br>Atualizar drivers de vídeo."
     },
     {
       "titulo": "Problema 72 - Stuttering",
-      "imagem": "imagens/72.jpg",
+      "imagem": "imagens/1-72.jpg",
       "descricao": "Jogos ou vídeos apresentam travamentos irregulares.<br><br>Testes possíveis:<br>Verificar RAM.<br>Fechar programas em segundo plano.<br>Atualizar drivers."
     },
     {
       "titulo": "Problema 73 - Input lag",
-      "imagem": "imagens/73.jpg",
+      "imagem": "imagens/1-73.jpg",
       "descricao": "A resposta de teclas ou mouse está atrasada.<br><br>Testes possíveis:<br>Atualizar driver.<br>Verificar configuração de periféricos.<br>Testar outro dispositivo."
     },
     {
       "titulo": "Problema 74 - Overheating",
-      "imagem": "imagens/74.webp",
+      "imagem": "imagens/1-74.webp",
       "descricao": "O computador aquece demais durante uso.<br><br>Testes possíveis:<br>Limpar poeira interna.<br>Verificar fluxo de ar.<br>Monitorar temperatura da CPU."
     },
     {
       "titulo": "Problema 75 - Thermal throttling",
-      "imagem": "imagens/75.webp",
+      "imagem": "imagens/1-75.webp",
       "descricao": "CPU reduz desempenho devido à alta temperatura.<br><br>Testes possíveis:<br>Limpar cooler.<br>Trocar pasta térmica.<br>Melhorar ventilação do gabinete."
     },
     {
       "titulo": "Problema 76 - Chrome travando",
-      "imagem": "imagens/76.jpg",
+      "imagem": "imagens/1-76.jpg",
       "descricao": "O navegador Chrome fecha ou congela.<br><br>Testes possíveis:<br>Verificar extensões.<br>Limpar cache.<br>Atualizar navegador."
     },
     {
       "titulo": "Problema 77 - Discord crash",
-      "imagem": "imagens/77.jpg",
+      "imagem": "imagens/1-77.jpg",
       "descricao": "O Discord fecha inesperadamente.<br><br>Testes possíveis:<br>Atualizar driver de áudio e GPU.<br>Reinstalar aplicativo.<br>Verificar conflitos de software."
     },
     {
       "titulo": "Problema 78 - Steam não abre",
-      "imagem": "imagens/78.jpg",
+      "imagem": "imagens/1-78.jpg",
       "descricao": "O cliente Steam não inicia.<br><br>Testes possíveis:<br>Limpar cache.<br>Reinstalar Steam.<br>Verificar integridade de arquivos."
     },
     {
       "titulo": "Problema 79 - Jogo crash",
-      "imagem": "imagens/79.jpg",
+      "imagem": "imagens/1-79.jpg",
       "descricao": "O jogo fecha sozinho durante partidas.<br><br>Testes possíveis:<br>Atualizar driver da GPU.<br>Verificar requisitos do sistema.<br>Reinstalar jogo."
     },
     {
       "titulo": "Problema 80 - Software fecha sozinho",
-      "imagem": "imagens/80.jpg",
+      "imagem": "imagens/1-80.jpg",
       "descricao": "Programas fecham inesperadamente.<br><br>Testes possíveis:<br>Verificar RAM.<br>Atualizar software.<br>Reinstalar se necessário."
     },
     {
       "titulo": "Problema 81 - Atualizar drivers",
-      "imagem": "imagens/81.jpg",
+      "imagem": "imagens/1-81.jpg",
       "descricao": "Manter drivers atualizados garante estabilidade e performance.<br><br>Testes possíveis:<br>Verificar drivers da placa-mãe, GPU e periféricos.<br>Usar software oficial do fabricante."
     },
     {
       "titulo": "Problema 82 - Não instalar software pirata",
-      "imagem": "imagens/82.jpg",
+      "imagem": "imagens/1-82.jpg",
       "descricao": "Programas piratas podem conter vírus e instabilidade.<br><br>Testes possíveis:<br>Instalar apenas softwares oficiais.<br>Usar antivírus atualizado.<br>Evitar downloads suspeitos."
     },
     {
       "titulo": "Problema 83 - Limpar startup",
-      "imagem": "imagens/83.PNG",
+      "imagem": "imagens/1-83.PNG",
       "descricao": "Programas iniciando junto com Windows podem deixar o PC lento.<br><br>Testes possíveis:<br>Desativar aplicativos desnecessários na inicialização.<br>Usar gerenciador de tarefas."
     },
     {
       "titulo": "Problema 84 - Backup",
-      "imagem": "imagens/84.png",
+      "imagem": "imagens/1-84.png",
       "descricao": "Fazer backup regular protege arquivos importantes.<br><br>Testes possíveis:<br>Usar HD externo ou nuvem.<br>Automatizar backups periódicos."
     },
     {
       "titulo": "Problema 85 - SSD sempre",
-      "imagem": "imagens/85.avif",
+      "imagem": "imagens/1-85.avif",
       "descricao": "Manter SSD em bom estado garante performance.<br><br>Testes possíveis:<br>Evitar encher totalmente.<br>Executar limpeza de arquivos desnecessários.<br>Monitorar saúde com software."
     },
     {
       "titulo": "Problema 86 - Limpeza anual",
-      "imagem": "imagens/86.jpeg",
+      "imagem": "imagens/1-86.jpeg",
       "descricao": "Limpeza física do PC ajuda na performance e vida útil.<br><br>Testes possíveis:<br>Limpar poeira de componentes.<br>Verificar ventilação.<br>Manter cabos organizados."
     },
     {
       "titulo": "Problema 87 - Verificar temperaturas",
-      "imagem": "imagens/87.webp",
+      "imagem": "imagens/1-87.webp",
       "descricao": "Monitorar temperaturas evita superaquecimento.<br><br>Testes possíveis:<br>Usar software de monitoramento.<br>Verificar cooler e fluxo de ar."
     },
     {
       "titulo": "Problema 88 - Testar RAM",
-      "imagem": "imagens/88.png",
+      "imagem": "imagens/1-88.png",
       "descricao": "Verificar estabilidade da memória.<br><br>Testes possíveis:<br>Executar MemTest.<br>Testar módulos individualmente."
     },
     {
       "titulo": "Problema 89 - Verificar SMART",
-      "imagem": "imagens/89.webp",
+      "imagem": "imagens/1-89.webp",
       "descricao": "Monitorar saúde do HD ou SSD evita perda de dados.<br><br>Testes possíveis:<br>Usar software SMART.<br>Checar alertas e substituir se necessário."
     },
     {
       "titulo": "Problema 90 - Checar vírus",
-      "imagem": "imagens/90.jpg",
+      "imagem": "imagens/1-90.jpg",
       "descricao": "Verificar presença de malware mantém sistema seguro.<br><br>Testes possíveis:<br>Executar antivírus atualizado.<br>Fazer varredura completa do sistema."
     },
     {
       "titulo": "Problema 91 - Windows inicia mas trava",
-      "imagem": "imagens/91.jpg",
+      "imagem": "imagens/1-91.jpg",
       "descricao": "O sistema inicia mas trava durante uso.<br><br>Testes possíveis:<br>Verificar drivers.<br>Atualizar software.<br>Monitorar uso de recursos."
     },
     {
       "titulo": "Problema 92 - Erro explorer.exe",
-      "imagem": "imagens/92.png",
+      "imagem": "imagens/1-92.png",
       "descricao": "O Windows apresenta erro no explorer.exe.<br><br>Testes possíveis:<br>Verificar perfil corrompido.<br>Reparar usuário ou criar novo perfil."
     },
     {
       "titulo": "Problema 93 - Barra de tarefas sumiu",
-      "imagem": "imagens/93.jpg",
+      "imagem": "imagens/1-93.jpg",
       "descricao": "A barra de tarefas não aparece.<br><br>Testes possíveis:<br>Reiniciar explorer.exe.<br>Verificar configurações da barra de tarefas."
     },
     {
       "titulo": "Problema 94 - HD desaparece",
-      "imagem": "imagens/94.jpg",
+      "imagem": "imagens/1-94.jpg",
       "descricao": "O HD não é detectado pelo sistema.<br><br>Testes possíveis:<br>Verificar controladora SATA.<br>Testar outro cabo ou porta."
     },
     {
       "titulo": "Problema 95 - Programas abrindo sozinhos",
-      "imagem": "imagens/95.jpeg",
+      "imagem": "imagens/1-95.jpeg",
       "descricao": "Aplicativos iniciam sem ação do usuário.<br><br>Testes possíveis:<br>Verificar malware.<br>Checar programas de inicialização."
     },
     {
       "titulo": "Problema 96 - Boot muito lento",
-      "imagem": "imagens/96.jpg",
+      "imagem": "imagens/1-96.jpg",
       "descricao": "O sistema demora para iniciar.<br><br>Testes possíveis:<br>Verificar serviços de inicialização.<br>Desativar programas desnecessários."
     },
     {
       "titulo": "Problema 97 - Som sumiu",
-      "imagem": "imagens/97.jpg",
+      "imagem": "imagens/1-97.jpg",
       "descricao": "Não há saída de som no sistema.<br><br>Testes possíveis:<br>Atualizar driver de áudio.<br>Verificar configurações de som."
     },
     {
       "titulo": "Problema 98 - GPU não usada",
-      "imagem": "imagens/98.jpg",
+      "imagem": "imagens/1-98.jpg",
       "descricao": "A placa de vídeo não é utilizada pelo sistema.<br><br>Testes possíveis:<br>Atualizar driver.<br>Verificar configurações de GPU."
     },
     {
       "titulo": "Problema 99 - PC reinicia jogando",
-      "imagem": "imagens/99.jpeg",
+      "imagem": "imagens/1-99.jpeg",
       "descricao": "O computador reinicia durante jogos.<br><br>Testes possíveis:<br>Verificar fonte de alimentação.<br>Monitorar temperatura.<br>Testar estabilidade do sistema."
     },
     {
       "titulo": "Problema 100 - PC congela aleatoriamente",
-      "imagem": "imagens/100.jpg",
+      "imagem": "imagens/1-100.jpg",
       "descricao": "O sistema congela sem aviso.<br><br>Testes possíveis:<br>Verificar RAM e SSD.<br>Executar testes de estabilidade.<br>Atualizar drivers."
     }
   ]
 }
+
 
