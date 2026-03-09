@@ -8,7 +8,7 @@
     },
     {
       "titulo": "Problema 2 - Computador liga mas não dá vídeo",
-      "imagem": "/imagens/1-2.jpg",
+      "imagem": "../imagens/1-2.jpg",
       "descricao": "O computador liga, as ventoinhas giram, mas não aparece imagem no monitor.<br> Em alguns casos o monitor mostra 'sem sinal'.<br> O problema pode surgir após limpeza do computador ou transporte.<br> Também pode acontecer após instalação de nova memória ou placa de vídeo.<br><br>Testes possíveis:<br>Verificar cabo HDMI ou VGA.<br>Testar outro monitor.<br>Remover e recolocar memória RAM.<br>Testar vídeo integrado.<br>Limpar contatos da memória.<br>Resetar BIOS."
     },
     {
@@ -253,5 +253,6 @@
     }
   ]
 }
+
 
 
