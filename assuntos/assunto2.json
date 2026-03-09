@@ -153,7 +153,7 @@
     },
     {
       "titulo": "Problema 81 - Atualizar drivers",
-      "imagem": "imagens/1-81.jpg",
+      "imagem": "imagens/1-81.webp",
       "descricao": "Manter drivers atualizados garante estabilidade e performance.<br><br>Testes possíveis:<br>Verificar drivers da placa-mãe, GPU e periféricos.<br>Usar software oficial do fabricante."
     },
     {
@@ -253,6 +253,7 @@
     }
   ]
 }
+
 
 
 
