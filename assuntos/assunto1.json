@@ -38,7 +38,7 @@
     },
     {
       "titulo": "Problema 8 - HD fazendo barulho",
-      "imagem": "imagens/1-8.png",
+      "imagem": "imagens/1-8.PNG",
       "descricao": "O cliente relata estalos ou barulho vindo do computador.<br> O sistema pode travar ou demorar para carregar arquivos.<br> Em alguns casos o problema surge após queda ou impacto.<br><br>Testes possíveis:<br>Verificar saúde do HD com software.<br>Fazer backup imediato.<br>Checar cabos SATA.<br>Testar outro disco.<br>Monitorar SMART do disco."
     },
     {
@@ -253,6 +253,7 @@
     }
   ]
 }
+
 
 
 
