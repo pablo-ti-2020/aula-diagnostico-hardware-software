@@ -3,7 +3,7 @@
   "slides": [
     {
       "titulo": "Problema 1 - Computador não liga",
-      "imagem": "https://i.ytimg.com/vi/xP1MhX4M7Ds/maxresdefault.jpg",
+      "imagem": "imagens/1-1.webp",
       "descricao": "O cliente aperta o botão de ligar e nada acontece.<br> Nenhum LED acende e nenhuma ventoinha gira.<br> Em alguns casos o computador funcionava normalmente no dia anterior.<br> Também pode ocorrer após queda de energia ou mudança de tomada.<br> Isso pode gerar preocupação imediata para o usuário.<br><br>Testes possíveis:<br>Verificar cabo de energia e filtro de linha.<br>Testar outra tomada.<br>Verificar se a fonte está ligada na chave traseira.<br>Testar fonte de alimentação.<br>Verificar botão power do gabinete.<br>Checar conexão do cabo POWER SW na placa-mãe."
     },
     {
@@ -253,6 +253,7 @@
     }
   ]
 }
+
 
 
 
